@@ -3,7 +3,7 @@
 require 'model/CountryVisit.php';
 require 'model/CityVisit.php';
 require 'model/PointVisit.php';
-require 'model/City.php';
+/*require 'model/City.php';
 require 'model/Country.php';
 
 Country::Load(
@@ -12,9 +12,17 @@ Country::Load(
 
 City::Load(
 	json_decode(file_get_contents('originaldata/cities.json'))
-);
+);*/
 
 $data = json_decode(file_get_contents('originaldata/points.json'));
+
+usort ( $data , function($a, $b) {
+    if ($a->date == $b->date) {
+        return 0;
+    }
+    return ($a->date < $b->date) ? -1 : 1;
+});
+
 
 $newdata = array();
 
@@ -27,8 +35,11 @@ foreach ($data as $item)
 {
     if ($lastCountry != $item->country_id)
     {
-    	$country = Country::Get($item->country_id);
-		$countryVisit = new CountryVisit($item->country_id, $country->name);
+    	//$country = Country::Get($item->country_id);
+
+        echo "Country: {$item->country}\n";
+
+		$countryVisit = new CountryVisit($item->country_id, $item->country);
 		$newdata[] = $countryVisit;
         $lastCountry = $item->country_id;
     }
@@ -39,9 +50,12 @@ foreach ($data as $item)
         {
             $countryVisit->addCity($cityVisit);
         }
-        
-    	$city = City::Get($item->city_id);
-		$cityVisit = new CityVisit($item->city_id, $city->name);
+
+        //$city = City::Get($item->city_id);
+
+        echo "\t City: {$item->city}\n";
+
+		$cityVisit = new CityVisit($item->city_id, $item->city);
         $lastCity = $item->city_id;
     }
 
