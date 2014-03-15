@@ -92,12 +92,9 @@ function readCities(data,index,country_data,country_index)
 function loadPoints(data)
 {
 	data.forEach(function(point){
-
+console.log(point);
 		L.marker([point.latitude,point.longitude], {
-			riseOnHover: true/*,
-			icon: {
-
-			}*/
+			riseOnHover: true
 		})
 			.addTo(map)
 			.bindPopup("<b>"+point.name+"</b><br /><p>"+point.description+"</p>");

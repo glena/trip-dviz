@@ -6,14 +6,6 @@ require 'model/PointVisit.php';
 
 $data = json_decode(file_get_contents('originaldata/points.json'));
 
-usort ( $data , function($a, $b) {
-    if ($a->date == $b->date) {
-        return 0;
-    }
-    return ($a->date < $b->date) ? -1 : 1;
-});
-
-
 $newdata = array();
 
 $lastCountry = null;
