@@ -1,19 +1,17 @@
 var height = $(window).height();
 $('#map').height(height);
 
-var map = L.map('map').setView([50.10714500,8.66378900], 5);
-
-/*
-L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/54912/256/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>'
-}).addTo(map);
-*/
+var map = L.map('map',{
+	maxBounds:[[59.228132, -13.041798], [35.364688, 19.653513]],
+	minZoom: 4,
+	zoomControl:false
+}).setView([50.10714500,8.66378900], 5);
 
 L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/125104/256/{z}/{x}/{y}.png', {
 	maxZoom: 18,
 	attribution: 'My ultimo viaje <a href="http://germanlena.com.ar">Germán Lena</a>'
 }).addTo(map);
+
 
 var loadedCities = [];
 var currentIndex = 0;
@@ -48,7 +46,9 @@ $('#nav #back').click(function(){
 	}
 });
 
+
 function positionCity(city) {
+	$('#city-name').html(city.name);
 	map.setView([city.latitude, city.longitude], 13);
 }
 
@@ -93,7 +93,13 @@ function loadPoints(data)
 {
 	data.forEach(function(point){
 
-		L.marker([point.latitude,point.longitude]).addTo(map)
+		L.marker([point.latitude,point.longitude], {
+			riseOnHover: true/*,
+			icon: {
+
+			}*/
+		})
+			.addTo(map)
 			.bindPopup("<b>"+point.name+"</b><br /><p>"+point.description+"</p>");
 
 	});

@@ -4,14 +4,16 @@ class CityVisit {
 
     public $id;
     public $name;
+    public $country;
     public $latitude;
     public $longitude;
     public $points = array();
     
-    public function __construct($id, $name)
+    public function __construct($id, $name, $country)
     {
         $this->id = $id;
         $this->name = $name;
+        $this->country = $country;
     }
 
     public function addPoint(PointVisit $point)

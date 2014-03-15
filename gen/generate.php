@@ -3,16 +3,6 @@
 require 'model/CountryVisit.php';
 require 'model/CityVisit.php';
 require 'model/PointVisit.php';
-/*require 'model/City.php';
-require 'model/Country.php';
-
-Country::Load(
-	json_decode(file_get_contents('originaldata/countries.json'))
-);
-
-City::Load(
-	json_decode(file_get_contents('originaldata/cities.json'))
-);*/
 
 $data = json_decode(file_get_contents('originaldata/points.json'));
 
@@ -55,7 +45,7 @@ foreach ($data as $item)
 
         echo "\t City: {$item->city}\n";
 
-		$cityVisit = new CityVisit($item->city_id, $item->city);
+		$cityVisit = new CityVisit($item->city_id, $item->city, $item->country);
         $lastCity = $item->city_id;
     }
 
