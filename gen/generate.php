@@ -64,6 +64,8 @@ foreach ($data as $item)
 
 }
 
+$countryVisit->addCity($cityVisit);
+
 file_put_contents('generateddata/data.json', json_encode($newdata));
 
 ?>
