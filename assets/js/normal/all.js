@@ -53,7 +53,7 @@ function positionCity(city) {
 }
 
 $(document).ready(function(){
-	$.ajax('/assets/data/data.json',{
+	$.ajax('assets/data/data.json',{
 		dataType:'json'
 	}).done(function( data ) {
 		readCountries(data,0);
