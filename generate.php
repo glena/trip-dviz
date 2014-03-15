@@ -1,33 +1,56 @@
 <?php
 
-$data = json_decode(file_get_contents('convertcsv.json'));
+require 'model/CountryVisit.php';
+require 'model/CityVisit.php';
+require 'model/PointVisit.php';
+require 'model/City.php';
+require 'model/Country.php';
 
-$newdata = [];
+Country::Load(
+	json_decode(file_get_contents('originaldata/countries.json'))
+);
+
+City::Load(
+	json_decode(file_get_contents('originaldata/cities.json'))
+);
+
+$data = json_decode(file_get_contents('originaldata/export.json'));
+
+$newdata = array();
+
+$lastCountry = null;
+$lastCity = null;
+$obj = null;
 
 foreach ($data as $item)
 {
-	if (!isset($newdata[ 'c'.$item->country_id ]))
-	{
-		$newdata[ 'c'.$item->country_id ] = [
-			'country_id' => 'c'.$item->country_id,
-			'name' => null,
-			'dates' => []
-		];
-	}
+    if ($lastCountry != $item->country_id)
+    {
+    	$country = Country::Get($item->country_id);
+		$countryVisit = new CountryVisit($item->country_id, $country->name);
+		$newdata[] = $countryVisit;
+    }
 
-	$date = strtotime($item->date);
-	$strdate = date('y-m-d', $date);
+    if ($lastCity != $item->city_id)
+    {
+    	$city = City::Get($item->city_id);
 
-	if (!isset($newdata[ 'c'.$item->country_id ]['dates'][$strdate]))
-	{
-		$newdata[ 'c'.$item->country_id ]['dates'][$strdate] = [
-			'date' => $strdate,
-			'points' => []
-		];
-	}
+    	if ($city === null)
+    	{
+    		var_dump($item);exit;
+    	}
 
-	$newdata[ 'c'.$item->country_id ]['dates'][$strdate]['points'][] = $item;
+		$cityVisit = new CityVisit($item->city_id, $city->name);
+		$countryVisit->addCity($cityVisit);
+    }
+
+	$pointVisit = new PointVisit($item);
+	$cityVisit->addPoint($pointVisit);
+
 }
 
-file_put_contents('data.json', json_encode($newdata));
+var_dump($newdata);
+
+//file_put_contents('generateddata/data.json', json_encode($newdata));
+
 ?>

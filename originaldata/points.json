@@ -8,7 +8,8 @@
     "created_at":"2013-01-22 01:41:20",
     "updated_at":"2013-09-24 19:28:54",
     "saisin_id":"6",
-    "photo_id":"17",
+    "photo_id":"\\N",
+    "geo_point_id":17,
     "date":"2013-03-25 00:00:00",
     "photo_file_name":"stringio.txt",
     "photo_content_type":"image/jpeg",
@@ -18,8 +19,8 @@
     "province_id":"3",
     "country_id":1,
     "point_order":52,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":53,
@@ -30,7 +31,8 @@
     "created_at":"2013-01-22 01:41:39",
     "updated_at":"2013-09-24 19:28:56",
     "saisin_id":"6",
-    "photo_id":"5",
+    "photo_id":"\\N",
+    "geo_point_id":5,
     "date":"2013-03-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1keu21z",
     "photo_content_type":"image/jpeg",
@@ -40,8 +42,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":53,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":55,
@@ -52,7 +54,8 @@
     "created_at":"2013-01-22 01:49:24",
     "updated_at":"2013-09-24 19:28:59",
     "saisin_id":"6",
-    "photo_id":"1",
+    "photo_id":"\\N",
+    "geo_point_id":1,
     "date":"2013-03-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1xcm2nu",
     "photo_content_type":"image/jpeg",
@@ -62,8 +65,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":55,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":110,
@@ -74,7 +77,8 @@
     "created_at":"2013-02-01 19:45:56",
     "updated_at":"2013-09-24 19:29:53",
     "saisin_id":"6",
-    "photo_id":"51",
+    "photo_id":"\\N",
+    "geo_point_id":51,
     "date":"2013-04-08 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1wlk84z",
     "photo_content_type":"image/jpeg",
@@ -84,8 +88,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":360,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":297,
@@ -96,7 +100,8 @@
     "created_at":"2013-03-25 16:11:38",
     "updated_at":"2013-09-24 19:35:17",
     "saisin_id":"6",
-    "photo_id":"236",
+    "photo_id":"\\N",
+    "geo_point_id":236,
     "date":"2013-03-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1yeu5nj",
     "photo_content_type":"image/jpeg",
@@ -106,8 +111,8 @@
     "province_id":"3",
     "country_id":1,
     "point_order":303,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":298,
@@ -118,7 +123,8 @@
     "created_at":"2013-03-25 19:00:15",
     "updated_at":"2013-09-24 19:35:22",
     "saisin_id":"6",
-    "photo_id":"237",
+    "photo_id":"\\N",
+    "geo_point_id":237,
     "date":"2013-03-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-k6597o",
     "photo_content_type":"image/jpeg",
@@ -128,8 +134,8 @@
     "province_id":"3",
     "country_id":1,
     "point_order":304,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":299,
@@ -140,7 +146,8 @@
     "created_at":"2013-03-26 06:45:24",
     "updated_at":"2013-09-24 19:35:24",
     "saisin_id":"6",
-    "photo_id":"238",
+    "photo_id":"\\N",
+    "geo_point_id":238,
     "date":"2013-03-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-q34rtr",
     "photo_content_type":"image/jpeg",
@@ -150,8 +157,8 @@
     "province_id":"3",
     "country_id":1,
     "point_order":305,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":300,
@@ -162,7 +169,8 @@
     "created_at":"2013-03-26 14:28:01",
     "updated_at":"2013-09-24 19:35:27",
     "saisin_id":"6",
-    "photo_id":"239",
+    "photo_id":"\\N",
+    "geo_point_id":239,
     "date":"2013-03-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-dvcuwl",
     "photo_content_type":"image/jpeg",
@@ -172,8 +180,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":306,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":301,
@@ -184,7 +192,8 @@
     "created_at":"2013-03-26 15:40:03",
     "updated_at":"2013-09-24 19:35:29",
     "saisin_id":"6",
-    "photo_id":"240",
+    "photo_id":"\\N",
+    "geo_point_id":240,
     "date":"2013-03-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-188frb9",
     "photo_content_type":"image/jpeg",
@@ -194,8 +203,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":307,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":302,
@@ -206,7 +215,8 @@
     "created_at":"2013-03-26 20:03:53",
     "updated_at":"2013-09-24 19:35:32",
     "saisin_id":"6",
-    "photo_id":"241",
+    "photo_id":"\\N",
+    "geo_point_id":241,
     "date":"2013-03-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1g5z3fl",
     "photo_content_type":"image/jpeg",
@@ -216,8 +226,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":308,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":303,
@@ -228,7 +238,8 @@
     "created_at":"2013-03-26 20:07:45",
     "updated_at":"2013-09-24 19:35:35",
     "saisin_id":"6",
-    "photo_id":"242",
+    "photo_id":"\\N",
+    "geo_point_id":242,
     "date":"2013-03-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-j1ehtl",
     "photo_content_type":"image/jpeg",
@@ -238,8 +249,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":309,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":304,
@@ -250,7 +261,8 @@
     "created_at":"2013-03-26 20:15:54",
     "updated_at":"2013-09-24 19:35:38",
     "saisin_id":"6",
-    "photo_id":"243",
+    "photo_id":"\\N",
+    "geo_point_id":243,
     "date":"2013-03-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-16gstj3",
     "photo_content_type":"image/jpeg",
@@ -260,8 +272,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":310,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":305,
@@ -272,7 +284,8 @@
     "created_at":"2013-03-26 20:20:52",
     "updated_at":"2013-09-24 19:35:40",
     "saisin_id":"6",
-    "photo_id":"244",
+    "photo_id":"\\N",
+    "geo_point_id":244,
     "date":"2013-03-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1yoifsa",
     "photo_content_type":"image/jpeg",
@@ -282,8 +295,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":311,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":306,
@@ -294,7 +307,8 @@
     "created_at":"2013-03-27 19:29:49",
     "updated_at":"2013-09-24 19:35:42",
     "saisin_id":"6",
-    "photo_id":"245",
+    "photo_id":"\\N",
+    "geo_point_id":245,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1t4y5sm",
     "photo_content_type":"image/jpeg",
@@ -304,8 +318,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":312,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":307,
@@ -316,7 +330,8 @@
     "created_at":"2013-03-27 19:36:54",
     "updated_at":"2013-03-27 19:39:02",
     "saisin_id":"6",
-    "photo_id":"246",
+    "photo_id":"\\N",
+    "geo_point_id":246,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"1688080614174959.JPG",
     "photo_content_type":"image/jpeg",
@@ -326,8 +341,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":313,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":308,
@@ -338,7 +353,8 @@
     "created_at":"2013-03-27 19:47:39",
     "updated_at":"2013-09-24 19:35:46",
     "saisin_id":"6",
-    "photo_id":"247",
+    "photo_id":"\\N",
+    "geo_point_id":247,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-d7km2j",
     "photo_content_type":"image/jpeg",
@@ -348,8 +364,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":314,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":309,
@@ -360,7 +376,8 @@
     "created_at":"2013-03-27 20:01:00",
     "updated_at":"2013-09-24 19:35:49",
     "saisin_id":"6",
-    "photo_id":"248",
+    "photo_id":"\\N",
+    "geo_point_id":248,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-153fkln",
     "photo_content_type":"image/jpeg",
@@ -370,8 +387,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":315,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":310,
@@ -382,7 +399,8 @@
     "created_at":"2013-03-27 20:09:12",
     "updated_at":"2013-09-24 19:35:52",
     "saisin_id":"6",
-    "photo_id":"249",
+    "photo_id":"\\N",
+    "geo_point_id":249,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1yil3xz",
     "photo_content_type":"image/jpeg",
@@ -392,8 +410,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":316,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":311,
@@ -404,7 +422,8 @@
     "created_at":"2013-03-27 20:15:43",
     "updated_at":"2013-09-24 19:35:56",
     "saisin_id":"6",
-    "photo_id":"250",
+    "photo_id":"\\N",
+    "geo_point_id":250,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-5kmnf0",
     "photo_content_type":"image/jpeg",
@@ -414,8 +433,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":317,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":312,
@@ -426,7 +445,8 @@
     "created_at":"2013-03-27 20:21:06",
     "updated_at":"2013-09-24 19:35:59",
     "saisin_id":"6",
-    "photo_id":"251",
+    "photo_id":"\\N",
+    "geo_point_id":251,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-123i0dt",
     "photo_content_type":"image/jpeg",
@@ -436,8 +456,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":318,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":313,
@@ -448,7 +468,8 @@
     "created_at":"2013-03-27 20:27:56",
     "updated_at":"2013-09-24 19:36:02",
     "saisin_id":"6",
-    "photo_id":"252",
+    "photo_id":"\\N",
+    "geo_point_id":252,
     "date":"2013-03-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-nelx2v",
     "photo_content_type":"image/jpeg",
@@ -458,8 +479,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":319,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":314,
@@ -470,7 +491,8 @@
     "created_at":"2013-03-28 18:32:33",
     "updated_at":"2013-03-28 21:20:49",
     "saisin_id":"6",
-    "photo_id":"253",
+    "photo_id":"\\N",
+    "geo_point_id":253,
     "date":"2013-03-28 00:00:00",
     "photo_file_name":"DSC02783.JPG",
     "photo_content_type":"image/jpeg",
@@ -480,8 +502,8 @@
     "province_id":"54",
     "country_id":1,
     "point_order":321,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":315,
@@ -492,7 +514,8 @@
     "created_at":"2013-03-28 18:43:32",
     "updated_at":"2013-09-24 19:36:06",
     "saisin_id":"6",
-    "photo_id":"254",
+    "photo_id":"\\N",
+    "geo_point_id":254,
     "date":"2013-03-28 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1c7fze7",
     "photo_content_type":"image/jpeg",
@@ -502,8 +525,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":320,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":316,
@@ -514,7 +537,8 @@
     "created_at":"2013-03-29 19:24:53",
     "updated_at":"2013-09-24 19:36:08",
     "saisin_id":"6",
-    "photo_id":"255",
+    "photo_id":"\\N",
+    "geo_point_id":255,
     "date":"2013-03-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1cal99g",
     "photo_content_type":"image/jpeg",
@@ -524,8 +548,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":322,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":318,
@@ -536,7 +560,8 @@
     "created_at":"2013-03-29 19:28:33",
     "updated_at":"2013-09-24 19:36:11",
     "saisin_id":"6",
-    "photo_id":"257",
+    "photo_id":"\\N",
+    "geo_point_id":257,
     "date":"2013-03-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1uvfcaz",
     "photo_content_type":"image/jpeg",
@@ -546,8 +571,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":324,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":319,
@@ -558,7 +583,8 @@
     "created_at":"2013-03-29 19:30:53",
     "updated_at":"2013-09-24 19:36:13",
     "saisin_id":"6",
-    "photo_id":"258",
+    "photo_id":"\\N",
+    "geo_point_id":258,
     "date":"2013-03-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1ou0ipu",
     "photo_content_type":"image/jpeg",
@@ -568,8 +594,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":325,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":320,
@@ -580,7 +606,8 @@
     "created_at":"2013-03-29 19:33:22",
     "updated_at":"2013-09-24 19:36:16",
     "saisin_id":"6",
-    "photo_id":"259",
+    "photo_id":"\\N",
+    "geo_point_id":259,
     "date":"2013-03-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-16srwzj",
     "photo_content_type":"image/jpeg",
@@ -590,8 +617,8 @@
     "province_id":"1",
     "country_id":1,
     "point_order":326,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":326,
@@ -602,7 +629,8 @@
     "created_at":"2013-03-30 20:10:34",
     "updated_at":"2013-09-24 19:36:25",
     "saisin_id":"6",
-    "photo_id":"265",
+    "photo_id":"\\N",
+    "geo_point_id":265,
     "date":"2013-03-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1bhaci6",
     "photo_content_type":"image/jpeg",
@@ -612,8 +640,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":332,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":327,
@@ -624,7 +652,8 @@
     "created_at":"2013-03-30 20:13:58",
     "updated_at":"2013-09-24 19:36:28",
     "saisin_id":"6",
-    "photo_id":"266",
+    "photo_id":"\\N",
+    "geo_point_id":266,
     "date":"2013-03-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1djlmf3",
     "photo_content_type":"image/jpeg",
@@ -634,8 +663,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":333,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":328,
@@ -646,7 +675,8 @@
     "created_at":"2013-03-31 18:58:40",
     "updated_at":"2013-09-24 19:36:32",
     "saisin_id":"6",
-    "photo_id":"267",
+    "photo_id":"\\N",
+    "geo_point_id":267,
     "date":"2013-03-31 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1m232ip",
     "photo_content_type":"image/jpeg",
@@ -656,8 +686,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":334,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":329,
@@ -668,7 +698,8 @@
     "created_at":"2013-03-31 21:46:07",
     "updated_at":"2013-09-24 19:36:34",
     "saisin_id":"6",
-    "photo_id":"268",
+    "photo_id":"\\N",
+    "geo_point_id":268,
     "date":"2013-03-31 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1nbqigo",
     "photo_content_type":"image/jpeg",
@@ -678,8 +709,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":335,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":330,
@@ -690,7 +721,8 @@
     "created_at":"2013-03-31 21:52:10",
     "updated_at":"2013-09-24 19:36:38",
     "saisin_id":"6",
-    "photo_id":"269",
+    "photo_id":"\\N",
+    "geo_point_id":269,
     "date":"2013-03-31 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1fohdni",
     "photo_content_type":"image/jpeg",
@@ -700,8 +732,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":336,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":331,
@@ -712,7 +744,8 @@
     "created_at":"2013-04-01 18:34:37",
     "updated_at":"2013-09-24 19:36:42",
     "saisin_id":"6",
-    "photo_id":"270",
+    "photo_id":"\\N",
+    "geo_point_id":270,
     "date":"2013-04-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ac9h3u",
     "photo_content_type":"image/jpeg",
@@ -722,8 +755,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":337,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":332,
@@ -734,7 +767,8 @@
     "created_at":"2013-04-01 18:51:32",
     "updated_at":"2013-09-24 19:36:46",
     "saisin_id":"6",
-    "photo_id":"271",
+    "photo_id":"\\N",
+    "geo_point_id":271,
     "date":"2013-04-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1rj5x2m",
     "photo_content_type":"image/jpeg",
@@ -744,8 +778,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":338,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":333,
@@ -756,7 +790,8 @@
     "created_at":"2013-04-01 18:55:42",
     "updated_at":"2013-09-24 19:36:49",
     "saisin_id":"6",
-    "photo_id":"272",
+    "photo_id":"\\N",
+    "geo_point_id":272,
     "date":"2013-04-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-dh4apk",
     "photo_content_type":"image/jpeg",
@@ -766,8 +801,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":339,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":335,
@@ -778,7 +813,8 @@
     "created_at":"2013-04-01 20:12:03",
     "updated_at":"2013-09-24 19:36:54",
     "saisin_id":"6",
-    "photo_id":"274",
+    "photo_id":"\\N",
+    "geo_point_id":274,
     "date":"2013-03-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-q7vyr",
     "photo_content_type":"image/jpeg",
@@ -788,8 +824,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":341,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":336,
@@ -800,7 +836,8 @@
     "created_at":"2013-04-03 18:51:14",
     "updated_at":"2013-09-24 19:36:57",
     "saisin_id":"6",
-    "photo_id":"275",
+    "photo_id":"\\N",
+    "geo_point_id":275,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-9rkdwf",
     "photo_content_type":"image/jpeg",
@@ -810,8 +847,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":342,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":337,
@@ -822,7 +859,8 @@
     "created_at":"2013-04-03 18:54:16",
     "updated_at":"2013-09-24 19:37:00",
     "saisin_id":"6",
-    "photo_id":"276",
+    "photo_id":"\\N",
+    "geo_point_id":276,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-71xizn",
     "photo_content_type":"image/jpeg",
@@ -832,8 +870,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":343,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":338,
@@ -844,7 +882,8 @@
     "created_at":"2013-04-03 19:31:49",
     "updated_at":"2013-09-24 19:37:04",
     "saisin_id":"6",
-    "photo_id":"277",
+    "photo_id":"\\N",
+    "geo_point_id":277,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1pheejy",
     "photo_content_type":"image/jpeg",
@@ -854,8 +893,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":345,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":339,
@@ -866,7 +905,8 @@
     "created_at":"2013-04-03 19:39:02",
     "updated_at":"2013-09-24 19:37:07",
     "saisin_id":"6",
-    "photo_id":"278",
+    "photo_id":"\\N",
+    "geo_point_id":278,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1czzd4c",
     "photo_content_type":"image/jpeg",
@@ -876,8 +916,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":344,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":340,
@@ -888,7 +928,8 @@
     "created_at":"2013-04-03 19:49:01",
     "updated_at":"2013-09-24 19:37:10",
     "saisin_id":"6",
-    "photo_id":"279",
+    "photo_id":"\\N",
+    "geo_point_id":279,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-o38vsr",
     "photo_content_type":"image/jpeg",
@@ -898,8 +939,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":346,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":341,
@@ -910,7 +951,8 @@
     "created_at":"2013-04-03 20:00:44",
     "updated_at":"2013-09-24 19:37:12",
     "saisin_id":"6",
-    "photo_id":"280",
+    "photo_id":"\\N",
+    "geo_point_id":280,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-4h2gky",
     "photo_content_type":"image/jpeg",
@@ -920,8 +962,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":347,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":342,
@@ -932,7 +974,8 @@
     "created_at":"2013-04-03 20:08:20",
     "updated_at":"2013-09-24 19:37:15",
     "saisin_id":"6",
-    "photo_id":"281",
+    "photo_id":"\\N",
+    "geo_point_id":281,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-16m8jni",
     "photo_content_type":"image/jpeg",
@@ -942,8 +985,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":348,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":343,
@@ -954,7 +997,8 @@
     "created_at":"2013-04-03 20:26:03",
     "updated_at":"2013-09-24 19:37:19",
     "saisin_id":"6",
-    "photo_id":"282",
+    "photo_id":"\\N",
+    "geo_point_id":282,
     "date":"2013-04-02 00:00:00",
     "photo_file_name":"open-uri20130924-1571-14w155o",
     "photo_content_type":"image/jpeg",
@@ -964,8 +1008,8 @@
     "province_id":"5",
     "country_id":2,
     "point_order":349,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":344,
@@ -976,7 +1020,8 @@
     "created_at":"2013-04-04 05:52:33",
     "updated_at":"2013-04-04 06:00:12",
     "saisin_id":"6",
-    "photo_id":"283",
+    "photo_id":"\\N",
+    "geo_point_id":283,
     "date":"2013-04-03 00:00:00",
     "photo_file_name":"20130404_073825.jpg",
     "photo_content_type":"image/jpeg",
@@ -986,8 +1031,8 @@
     "province_id":"57",
     "country_id":2,
     "point_order":350,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":345,
@@ -998,7 +1043,8 @@
     "created_at":"2013-04-05 17:58:14",
     "updated_at":"2013-09-24 19:37:24",
     "saisin_id":"6",
-    "photo_id":"284",
+    "photo_id":"\\N",
+    "geo_point_id":284,
     "date":"2013-04-03 00:00:00",
     "photo_file_name":"open-uri20130924-1571-n7mtj1",
     "photo_content_type":"image/jpeg",
@@ -1008,8 +1054,8 @@
     "province_id":"57",
     "country_id":2,
     "point_order":351,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":346,
@@ -1020,7 +1066,8 @@
     "created_at":"2013-04-05 18:05:58",
     "updated_at":"2013-09-24 19:37:28",
     "saisin_id":"6",
-    "photo_id":"285",
+    "photo_id":"\\N",
+    "geo_point_id":285,
     "date":"2013-04-03 00:00:00",
     "photo_file_name":"open-uri20130924-1571-12g8kxy",
     "photo_content_type":"image/jpeg",
@@ -1030,8 +1077,8 @@
     "province_id":"57",
     "country_id":2,
     "point_order":352,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":347,
@@ -1042,7 +1089,8 @@
     "created_at":"2013-04-05 18:15:38",
     "updated_at":"2013-09-24 19:37:31",
     "saisin_id":"6",
-    "photo_id":"286",
+    "photo_id":"\\N",
+    "geo_point_id":286,
     "date":"2013-04-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-m5k594",
     "photo_content_type":"image/jpeg",
@@ -1052,8 +1100,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":353,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":348,
@@ -1064,7 +1112,8 @@
     "created_at":"2013-04-05 18:19:17",
     "updated_at":"2013-09-24 19:37:34",
     "saisin_id":"6",
-    "photo_id":"287",
+    "photo_id":"\\N",
+    "geo_point_id":287,
     "date":"2013-04-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-11s4mms",
     "photo_content_type":"image/jpeg",
@@ -1074,8 +1123,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":354,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":349,
@@ -1086,7 +1135,8 @@
     "created_at":"2013-04-05 18:22:08",
     "updated_at":"2013-09-24 19:37:36",
     "saisin_id":"6",
-    "photo_id":"288",
+    "photo_id":"\\N",
+    "geo_point_id":288,
     "date":"2013-04-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1mlsso8",
     "photo_content_type":"image/jpeg",
@@ -1096,8 +1146,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":355,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":350,
@@ -1108,7 +1158,8 @@
     "created_at":"2013-04-05 18:26:31",
     "updated_at":"2013-09-24 19:37:40",
     "saisin_id":"6",
-    "photo_id":"289",
+    "photo_id":"\\N",
+    "geo_point_id":289,
     "date":"2013-04-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-qmpvig",
     "photo_content_type":"image/jpeg",
@@ -1118,8 +1169,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":356,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":351,
@@ -1130,7 +1181,8 @@
     "created_at":"2013-04-05 18:31:33",
     "updated_at":"2013-09-24 19:37:44",
     "saisin_id":"6",
-    "photo_id":"290",
+    "photo_id":"\\N",
+    "geo_point_id":290,
     "date":"2013-04-05 00:00:00",
     "photo_file_name":"open-uri20130924-1571-3zyw0h",
     "photo_content_type":"image/jpeg",
@@ -1140,8 +1192,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":357,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":352,
@@ -1152,7 +1204,8 @@
     "created_at":"2013-04-05 18:38:19",
     "updated_at":"2013-09-24 19:37:48",
     "saisin_id":"6",
-    "photo_id":"291",
+    "photo_id":"\\N",
+    "geo_point_id":291,
     "date":"2013-04-05 00:00:00",
     "photo_file_name":"open-uri20130924-1571-115kswz",
     "photo_content_type":"image/jpeg",
@@ -1162,8 +1215,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":358,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":353,
@@ -1174,7 +1227,8 @@
     "created_at":"2013-04-08 20:25:57",
     "updated_at":"2013-09-24 19:37:51",
     "saisin_id":"6",
-    "photo_id":"292",
+    "photo_id":"\\N",
+    "geo_point_id":292,
     "date":"2013-04-07 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1jan4ee",
     "photo_content_type":"image/jpeg",
@@ -1184,8 +1238,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":359,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":354,
@@ -1196,7 +1250,8 @@
     "created_at":"2013-04-08 20:57:53",
     "updated_at":"2013-09-24 19:37:55",
     "saisin_id":"6",
-    "photo_id":"293",
+    "photo_id":"\\N",
+    "geo_point_id":293,
     "date":"2013-04-08 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1aaqary",
     "photo_content_type":"image/jpeg",
@@ -1206,8 +1261,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":111,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":355,
@@ -1218,7 +1273,8 @@
     "created_at":"2013-04-09 17:51:41",
     "updated_at":"2013-09-24 19:37:59",
     "saisin_id":"6",
-    "photo_id":"294",
+    "photo_id":"\\N",
+    "geo_point_id":294,
     "date":"2013-04-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-yazzpa",
     "photo_content_type":"image/jpeg",
@@ -1228,8 +1284,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":361,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":356,
@@ -1240,7 +1296,8 @@
     "created_at":"2013-04-09 17:59:30",
     "updated_at":"2013-09-24 19:38:02",
     "saisin_id":"6",
-    "photo_id":"295",
+    "photo_id":"\\N",
+    "geo_point_id":295,
     "date":"2013-04-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-13o84hl",
     "photo_content_type":"image/jpeg",
@@ -1250,8 +1307,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":362,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":357,
@@ -1262,7 +1319,8 @@
     "created_at":"2013-04-09 18:06:37",
     "updated_at":"2013-09-24 19:38:06",
     "saisin_id":"6",
-    "photo_id":"296",
+    "photo_id":"\\N",
+    "geo_point_id":296,
     "date":"2013-04-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-199e192",
     "photo_content_type":"image/jpeg",
@@ -1272,8 +1330,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":363,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":358,
@@ -1284,7 +1342,8 @@
     "created_at":"2013-04-09 18:21:09",
     "updated_at":"2013-09-24 19:38:10",
     "saisin_id":"6",
-    "photo_id":"297",
+    "photo_id":"\\N",
+    "geo_point_id":297,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1is7kbe",
     "photo_content_type":"image/jpeg",
@@ -1294,8 +1353,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":364,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":359,
@@ -1306,7 +1365,8 @@
     "created_at":"2013-04-09 18:32:44",
     "updated_at":"2013-09-24 19:38:13",
     "saisin_id":"6",
-    "photo_id":"298",
+    "photo_id":"\\N",
+    "geo_point_id":298,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1epuetl",
     "photo_content_type":"image/jpeg",
@@ -1316,8 +1376,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":365,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":360,
@@ -1328,7 +1388,8 @@
     "created_at":"2013-04-09 18:37:59",
     "updated_at":"2013-09-24 19:38:17",
     "saisin_id":"6",
-    "photo_id":"299",
+    "photo_id":"\\N",
+    "geo_point_id":299,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1j3b56e",
     "photo_content_type":"image/jpeg",
@@ -1338,8 +1399,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":366,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":361,
@@ -1350,7 +1411,8 @@
     "created_at":"2013-04-09 18:41:05",
     "updated_at":"2013-09-24 19:38:19",
     "saisin_id":"6",
-    "photo_id":"300",
+    "photo_id":"\\N",
+    "geo_point_id":300,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-4oaom",
     "photo_content_type":"image/jpeg",
@@ -1360,8 +1422,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":367,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":362,
@@ -1372,7 +1434,8 @@
     "created_at":"2013-04-09 18:46:27",
     "updated_at":"2013-09-24 19:38:21",
     "saisin_id":"6",
-    "photo_id":"301",
+    "photo_id":"\\N",
+    "geo_point_id":301,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-zzc5pe",
     "photo_content_type":"image/jpeg",
@@ -1382,8 +1445,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":368,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":363,
@@ -1394,7 +1457,8 @@
     "created_at":"2013-04-09 18:59:30",
     "updated_at":"2013-09-24 19:38:24",
     "saisin_id":"6",
-    "photo_id":"302",
+    "photo_id":"\\N",
+    "geo_point_id":302,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-wxrxo1",
     "photo_content_type":"image/jpeg",
@@ -1404,8 +1468,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":369,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":364,
@@ -1416,7 +1480,8 @@
     "created_at":"2013-04-09 19:04:18",
     "updated_at":"2013-09-24 19:38:27",
     "saisin_id":"6",
-    "photo_id":"303",
+    "photo_id":"\\N",
+    "geo_point_id":303,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-x88bui",
     "photo_content_type":"image/jpeg",
@@ -1426,8 +1491,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":370,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":365,
@@ -1438,7 +1503,8 @@
     "created_at":"2013-04-09 19:04:54",
     "updated_at":"2013-09-24 19:38:30",
     "saisin_id":"6",
-    "photo_id":"304",
+    "photo_id":"\\N",
+    "geo_point_id":304,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-exs5wm",
     "photo_content_type":"image/jpeg",
@@ -1448,8 +1514,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":371,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":366,
@@ -1460,7 +1526,8 @@
     "created_at":"2013-04-09 19:06:11",
     "updated_at":"2013-09-24 19:38:35",
     "saisin_id":"6",
-    "photo_id":"305",
+    "photo_id":"\\N",
+    "geo_point_id":305,
     "date":"2013-04-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-11wbjmy",
     "photo_content_type":"image/jpeg",
@@ -1470,8 +1537,8 @@
     "province_id":"10",
     "country_id":3,
     "point_order":372,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":367,
@@ -1482,7 +1549,8 @@
     "created_at":"2013-04-09 19:08:49",
     "updated_at":"2013-09-24 19:38:37",
     "saisin_id":"6",
-    "photo_id":"306",
+    "photo_id":"\\N",
+    "geo_point_id":306,
     "date":"2013-04-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-b0fvfr",
     "photo_content_type":"image/jpeg",
@@ -1492,8 +1560,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":373,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":369,
@@ -1504,7 +1572,8 @@
     "created_at":"2013-04-09 19:13:16",
     "updated_at":"2013-09-24 19:38:39",
     "saisin_id":"6",
-    "photo_id":"308",
+    "photo_id":"\\N",
+    "geo_point_id":308,
     "date":"2013-04-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-njo45d",
     "photo_content_type":"image/jpeg",
@@ -1514,8 +1583,8 @@
     "province_id":"8",
     "country_id":3,
     "point_order":375,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":370,
@@ -1526,7 +1595,8 @@
     "created_at":"2013-04-10 18:00:06",
     "updated_at":"2013-09-24 19:38:44",
     "saisin_id":"6",
-    "photo_id":"309",
+    "photo_id":"\\N",
+    "geo_point_id":309,
     "date":"2013-04-10 00:00:00",
     "photo_file_name":"open-uri20130924-1571-pmllv5",
     "photo_content_type":"image/jpeg",
@@ -1536,8 +1606,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":376,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":371,
@@ -1548,7 +1618,8 @@
     "created_at":"2013-04-10 18:50:52",
     "updated_at":"2013-09-24 19:38:46",
     "saisin_id":"6",
-    "photo_id":"310",
+    "photo_id":"\\N",
+    "geo_point_id":310,
     "date":"2013-04-10 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1t46neo",
     "photo_content_type":"image/jpeg",
@@ -1558,8 +1629,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":377,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":372,
@@ -1570,7 +1641,8 @@
     "created_at":"2013-04-10 19:00:10",
     "updated_at":"2013-09-24 19:38:48",
     "saisin_id":"6",
-    "photo_id":"311",
+    "photo_id":"\\N",
+    "geo_point_id":311,
     "date":"2013-04-10 00:00:00",
     "photo_file_name":"stringio.txt",
     "photo_content_type":"image/jpeg",
@@ -1580,8 +1652,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":378,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":373,
@@ -1592,7 +1664,8 @@
     "created_at":"2013-04-10 19:05:54",
     "updated_at":"2013-09-24 19:38:52",
     "saisin_id":"6",
-    "photo_id":"312",
+    "photo_id":"\\N",
+    "geo_point_id":312,
     "date":"2013-04-10 00:00:00",
     "photo_file_name":"open-uri20130924-1571-4k9m1m",
     "photo_content_type":"image/jpeg",
@@ -1602,8 +1675,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":379,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":374,
@@ -1614,7 +1687,8 @@
     "created_at":"2013-04-11 17:48:53",
     "updated_at":"2013-09-24 19:38:56",
     "saisin_id":"6",
-    "photo_id":"313",
+    "photo_id":"\\N",
+    "geo_point_id":313,
     "date":"2013-04-11 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1k4yjld",
     "photo_content_type":"image/jpeg",
@@ -1624,8 +1698,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":380,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":375,
@@ -1637,7 +1711,8 @@
     "updated_at":"2.29450000",
     "saisin_id":"2013-04-12 17:47:36",
     "photo_id":"2013-09-24 19:39:01",
-    "date":"6",
+    "geo_point_id":6,
+    "date":"\\N",
     "photo_file_name":"314",
     "photo_content_type":"2013-04-11 00:00:00",
     "photo_file_size":"open-uri20130924-1571-enc6yf",
@@ -1646,8 +1721,8 @@
     "province_id":"2013-09-24 19:39:00",
     "country_id":11,
     "point_order":11,
-    "FIELD19":"5",
-    "FIELD20":"381"
+    "FIELD20":"5",
+    "FIELD21":"381"
   },
   {
     "id":376,
@@ -1658,7 +1733,8 @@
     "created_at":"2013-04-12 17:55:03",
     "updated_at":"2013-09-24 19:39:05",
     "saisin_id":"6",
-    "photo_id":"315",
+    "photo_id":"\\N",
+    "geo_point_id":315,
     "date":"2013-04-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-4v1vsu",
     "photo_content_type":"image/jpeg",
@@ -1668,8 +1744,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":382,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":377,
@@ -1680,7 +1756,8 @@
     "created_at":"2013-04-12 18:04:02",
     "updated_at":"2013-09-24 19:39:08",
     "saisin_id":"6",
-    "photo_id":"316",
+    "photo_id":"\\N",
+    "geo_point_id":316,
     "date":"2013-04-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-2z45ua",
     "photo_content_type":"image/jpeg",
@@ -1690,8 +1767,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":383,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":378,
@@ -1702,7 +1779,8 @@
     "created_at":"2013-04-17 08:28:12",
     "updated_at":"2013-09-24 19:39:11",
     "saisin_id":"6",
-    "photo_id":"317",
+    "photo_id":"\\N",
+    "geo_point_id":317,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-jzlodh",
     "photo_content_type":"image/jpeg",
@@ -1712,8 +1790,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":385,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":379,
@@ -1724,7 +1802,8 @@
     "created_at":"2013-04-17 08:38:45",
     "updated_at":"2013-09-24 19:39:15",
     "saisin_id":"6",
-    "photo_id":"318",
+    "photo_id":"\\N",
+    "geo_point_id":318,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-154cyit",
     "photo_content_type":"image/jpeg",
@@ -1734,8 +1813,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":384,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":380,
@@ -1746,7 +1825,8 @@
     "created_at":"2013-04-17 08:49:59",
     "updated_at":"2013-09-24 19:39:17",
     "saisin_id":"6",
-    "photo_id":"319",
+    "photo_id":"\\N",
+    "geo_point_id":319,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-fbxk9a",
     "photo_content_type":"image/jpeg",
@@ -1756,8 +1836,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":387,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":381,
@@ -1768,7 +1848,8 @@
     "created_at":"2013-04-17 17:19:24",
     "updated_at":"2013-09-24 19:39:21",
     "saisin_id":"6",
-    "photo_id":"320",
+    "photo_id":"\\N",
+    "geo_point_id":320,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1p9z3n3",
     "photo_content_type":"image/jpeg",
@@ -1778,8 +1859,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":388,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":382,
@@ -1790,7 +1871,8 @@
     "created_at":"2013-04-17 17:31:08",
     "updated_at":"2013-09-24 19:39:26",
     "saisin_id":"6",
-    "photo_id":"321",
+    "photo_id":"\\N",
+    "geo_point_id":321,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1s0xlad",
     "photo_content_type":"image/jpeg",
@@ -1800,8 +1882,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":389,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":383,
@@ -1812,7 +1894,8 @@
     "created_at":"2013-04-17 17:37:00",
     "updated_at":"2013-09-24 19:39:29",
     "saisin_id":"6",
-    "photo_id":"322",
+    "photo_id":"\\N",
+    "geo_point_id":322,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-zf07mz",
     "photo_content_type":"image/jpeg",
@@ -1822,8 +1905,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":386,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":384,
@@ -1834,7 +1917,8 @@
     "created_at":"2013-04-17 17:49:10",
     "updated_at":"2013-09-24 19:39:31",
     "saisin_id":"6",
-    "photo_id":"323",
+    "photo_id":"\\N",
+    "geo_point_id":323,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ewaqmu",
     "photo_content_type":"image/jpeg",
@@ -1844,8 +1928,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":390,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":385,
@@ -1856,7 +1940,8 @@
     "created_at":"2013-04-17 18:10:31",
     "updated_at":"2013-09-24 19:39:35",
     "saisin_id":"6",
-    "photo_id":"324",
+    "photo_id":"\\N",
+    "geo_point_id":324,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1le4jm",
     "photo_content_type":"image/jpeg",
@@ -1866,8 +1951,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":391,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":386,
@@ -1878,7 +1963,8 @@
     "created_at":"2013-04-17 18:17:40",
     "updated_at":"2013-09-24 19:39:39",
     "saisin_id":"6",
-    "photo_id":"325",
+    "photo_id":"\\N",
+    "geo_point_id":325,
     "date":"2013-04-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-58bcfj",
     "photo_content_type":"image/jpeg",
@@ -1888,8 +1974,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":392,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":387,
@@ -1900,7 +1986,8 @@
     "created_at":"2013-04-17 18:24:02",
     "updated_at":"2013-09-24 19:39:42",
     "saisin_id":"6",
-    "photo_id":"326",
+    "photo_id":"\\N",
+    "geo_point_id":326,
     "date":"2013-04-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1sk5r0e",
     "photo_content_type":"image/jpeg",
@@ -1910,8 +1997,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":393,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":388,
@@ -1922,7 +2009,8 @@
     "created_at":"2013-04-17 18:35:40",
     "updated_at":"2013-09-24 19:39:45",
     "saisin_id":"6",
-    "photo_id":"327",
+    "photo_id":"\\N",
+    "geo_point_id":327,
     "date":"2013-04-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-s5sdv5",
     "photo_content_type":"image/jpeg",
@@ -1932,8 +2020,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":394,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":389,
@@ -1944,7 +2032,8 @@
     "created_at":"2013-04-17 18:45:29",
     "updated_at":"2013-09-24 19:39:48",
     "saisin_id":"6",
-    "photo_id":"328",
+    "photo_id":"\\N",
+    "geo_point_id":328,
     "date":"2013-04-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1g0t9gw",
     "photo_content_type":"image/jpeg",
@@ -1954,8 +2043,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":395,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":390,
@@ -1966,7 +2055,8 @@
     "created_at":"2013-04-18 08:29:33",
     "updated_at":"2013-09-24 19:39:52",
     "saisin_id":"6",
-    "photo_id":"329",
+    "photo_id":"\\N",
+    "geo_point_id":329,
     "date":"2013-04-16 00:00:00",
     "photo_file_name":"open-uri20130924-1571-rs6n3b",
     "photo_content_type":"image/jpeg",
@@ -1976,8 +2066,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":396,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":391,
@@ -1988,7 +2078,8 @@
     "created_at":"2013-04-18 08:38:54",
     "updated_at":"2013-09-24 19:39:55",
     "saisin_id":"6",
-    "photo_id":"330",
+    "photo_id":"\\N",
+    "geo_point_id":330,
     "date":"2013-04-16 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1totxqi",
     "photo_content_type":"image/jpeg",
@@ -1998,8 +2089,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":397,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":392,
@@ -2010,7 +2101,8 @@
     "created_at":"2013-04-18 08:45:59",
     "updated_at":"2013-09-24 19:39:57",
     "saisin_id":"6",
-    "photo_id":"331",
+    "photo_id":"\\N",
+    "geo_point_id":331,
     "date":"2013-04-16 00:00:00",
     "photo_file_name":"open-uri20130924-1571-14ddp1m",
     "photo_content_type":"image/jpeg",
@@ -2020,8 +2112,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":398,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":393,
@@ -2032,7 +2124,8 @@
     "created_at":"2013-04-18 08:56:51",
     "updated_at":"2013-09-24 19:40:00",
     "saisin_id":"6",
-    "photo_id":"332",
+    "photo_id":"\\N",
+    "geo_point_id":332,
     "date":"2013-04-17 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1ne7f0d",
     "photo_content_type":"image/jpeg",
@@ -2042,8 +2135,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":399,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":394,
@@ -2054,7 +2147,8 @@
     "created_at":"2013-04-18 09:06:14",
     "updated_at":"2013-09-24 19:40:03",
     "saisin_id":"6",
-    "photo_id":"333",
+    "photo_id":"\\N",
+    "geo_point_id":333,
     "date":"2013-04-17 00:00:00",
     "photo_file_name":"open-uri20130924-1571-vt0pxc",
     "photo_content_type":"image/jpeg",
@@ -2064,8 +2158,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":400,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":395,
@@ -2076,7 +2170,8 @@
     "created_at":"2013-04-18 15:35:30",
     "updated_at":"2013-04-18 15:48:53",
     "saisin_id":"6",
-    "photo_id":"334",
+    "photo_id":"\\N",
+    "geo_point_id":334,
     "date":"2013-04-17 00:00:00",
     "photo_file_name":"DSC04089-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2086,8 +2181,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":402,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":396,
@@ -2098,7 +2193,8 @@
     "created_at":"2013-04-18 15:45:32",
     "updated_at":"2013-09-24 19:40:06",
     "saisin_id":"6",
-    "photo_id":"335",
+    "photo_id":"\\N",
+    "geo_point_id":335,
     "date":"2013-04-17 00:00:00",
     "photo_file_name":"open-uri20130924-1571-16ol32f",
     "photo_content_type":"image/jpeg",
@@ -2108,8 +2204,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":401,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":397,
@@ -2120,7 +2216,8 @@
     "created_at":"2013-04-18 15:52:11",
     "updated_at":"2013-04-18 15:55:55",
     "saisin_id":"6",
-    "photo_id":"336",
+    "photo_id":"\\N",
+    "geo_point_id":336,
     "date":"2013-04-17 00:00:00",
     "photo_file_name":"2739627070_ed6b4206b6_z.jpeg",
     "photo_content_type":"image/jpeg",
@@ -2130,8 +2227,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":403,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":398,
@@ -2142,7 +2239,8 @@
     "created_at":"2013-04-18 15:58:52",
     "updated_at":"2013-09-24 19:40:10",
     "saisin_id":"6",
-    "photo_id":"337",
+    "photo_id":"\\N",
+    "geo_point_id":337,
     "date":"2013-04-18 00:00:00",
     "photo_file_name":"open-uri20130924-1571-evnm1g",
     "photo_content_type":"image/jpeg",
@@ -2152,8 +2250,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":404,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":399,
@@ -2164,7 +2262,8 @@
     "created_at":"2013-04-19 07:20:18",
     "updated_at":"2013-09-24 19:40:17",
     "saisin_id":"6",
-    "photo_id":"338",
+    "photo_id":"\\N",
+    "geo_point_id":338,
     "date":"2013-04-17 00:00:00",
     "photo_file_name":"open-uri20130924-1571-wltwkv",
     "photo_content_type":"image/jpeg",
@@ -2174,8 +2273,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":405,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":400,
@@ -2186,7 +2285,8 @@
     "created_at":"2013-04-19 07:25:07",
     "updated_at":"2013-04-21 17:04:16",
     "saisin_id":"6",
-    "photo_id":"339",
+    "photo_id":"\\N",
+    "geo_point_id":339,
     "date":"2013-04-18 00:00:00",
     "photo_file_name":"20130418_225401.jpg",
     "photo_content_type":"image/jpeg",
@@ -2196,8 +2296,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":406,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":401,
@@ -2208,7 +2308,8 @@
     "created_at":"2013-04-21 16:48:18",
     "updated_at":"2013-04-21 16:58:07",
     "saisin_id":"6",
-    "photo_id":"340",
+    "photo_id":"\\N",
+    "geo_point_id":340,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0025-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2218,8 +2319,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":407,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":402,
@@ -2230,7 +2331,8 @@
     "created_at":"2013-04-21 17:08:53",
     "updated_at":"2013-09-24 19:40:22",
     "saisin_id":"6",
-    "photo_id":"341",
+    "photo_id":"\\N",
+    "geo_point_id":341,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1aol7e1",
     "photo_content_type":"image/jpeg",
@@ -2240,8 +2342,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":408,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":403,
@@ -2252,7 +2354,8 @@
     "created_at":"2013-04-21 17:18:59",
     "updated_at":"2013-04-21 17:38:12",
     "saisin_id":"6",
-    "photo_id":"342",
+    "photo_id":"\\N",
+    "geo_point_id":342,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0034-2.jpg",
     "photo_content_type":"image/jpeg",
@@ -2262,8 +2365,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":409,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":404,
@@ -2274,7 +2377,8 @@
     "created_at":"2013-04-21 17:40:20",
     "updated_at":"2013-04-21 17:57:37",
     "saisin_id":"6",
-    "photo_id":"343",
+    "photo_id":"\\N",
+    "geo_point_id":343,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0036-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2284,8 +2388,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":410,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":405,
@@ -2296,7 +2400,8 @@
     "created_at":"2013-04-21 18:25:03",
     "updated_at":"2013-04-21 18:28:04",
     "saisin_id":"6",
-    "photo_id":"344",
+    "photo_id":"\\N",
+    "geo_point_id":344,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0045-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2306,8 +2411,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":411,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":406,
@@ -2318,7 +2423,8 @@
     "created_at":"2013-04-21 18:31:01",
     "updated_at":"2013-04-21 18:38:48",
     "saisin_id":"6",
-    "photo_id":"345",
+    "photo_id":"\\N",
+    "geo_point_id":345,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0073-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2328,8 +2434,8 @@
     "province_id":"58",
     "country_id":6,
     "point_order":412,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":407,
@@ -2340,7 +2446,8 @@
     "created_at":"2013-04-21 18:47:09",
     "updated_at":"2013-09-24 19:40:33",
     "saisin_id":"6",
-    "photo_id":"346",
+    "photo_id":"\\N",
+    "geo_point_id":346,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1kqfngm",
     "photo_content_type":"image/jpeg",
@@ -2350,8 +2457,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":413,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":408,
@@ -2362,7 +2469,8 @@
     "created_at":"2013-04-21 18:56:42",
     "updated_at":"2013-09-24 19:40:37",
     "saisin_id":"6",
-    "photo_id":"347",
+    "photo_id":"\\N",
+    "geo_point_id":347,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ur2f0x",
     "photo_content_type":"image/jpeg",
@@ -2372,8 +2480,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":414,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":409,
@@ -2384,7 +2492,8 @@
     "created_at":"2013-04-21 19:08:50",
     "updated_at":"2013-04-21 19:08:50",
     "saisin_id":"6",
-    "photo_id":"348",
+    "photo_id":"\\N",
+    "geo_point_id":348,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0108-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2394,8 +2503,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":415,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":410,
@@ -2406,7 +2515,8 @@
     "created_at":"2013-04-21 19:17:16",
     "updated_at":"2013-04-21 19:21:57",
     "saisin_id":"6",
-    "photo_id":"349",
+    "photo_id":"\\N",
+    "geo_point_id":349,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0113-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2416,8 +2526,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":416,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":411,
@@ -2428,7 +2538,8 @@
     "created_at":"2013-04-21 19:26:30",
     "updated_at":"2013-04-21 19:28:29",
     "saisin_id":"6",
-    "photo_id":"350",
+    "photo_id":"\\N",
+    "geo_point_id":350,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"DSC_0123-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2438,8 +2549,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":417,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":412,
@@ -2450,7 +2561,8 @@
     "created_at":"2013-04-21 19:31:12",
     "updated_at":"2013-09-24 19:40:43",
     "saisin_id":"6",
-    "photo_id":"351",
+    "photo_id":"\\N",
+    "geo_point_id":351,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-z47p91",
     "photo_content_type":"image/jpeg",
@@ -2460,8 +2572,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":418,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":413,
@@ -2472,7 +2584,8 @@
     "created_at":"2013-04-21 19:38:31",
     "updated_at":"2013-09-24 19:40:46",
     "saisin_id":"6",
-    "photo_id":"352",
+    "photo_id":"\\N",
+    "geo_point_id":352,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-p9ohsg",
     "photo_content_type":"image/jpeg",
@@ -2482,8 +2595,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":419,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":414,
@@ -2494,7 +2607,8 @@
     "created_at":"2013-04-21 19:45:52",
     "updated_at":"2013-09-24 19:40:50",
     "saisin_id":"6",
-    "photo_id":"353",
+    "photo_id":"\\N",
+    "geo_point_id":353,
     "date":"2013-04-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-glopcs",
     "photo_content_type":"image/jpeg",
@@ -2504,8 +2618,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":420,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":415,
@@ -2516,7 +2630,8 @@
     "created_at":"2013-04-23 18:26:53",
     "updated_at":"2013-09-24 19:40:52",
     "saisin_id":"6",
-    "photo_id":"354",
+    "photo_id":"\\N",
+    "geo_point_id":354,
     "date":"2013-04-20 00:00:00",
     "photo_file_name":"open-uri20130924-1571-qmtu1e",
     "photo_content_type":"image/jpeg",
@@ -2526,8 +2641,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":421,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":416,
@@ -2538,7 +2653,8 @@
     "created_at":"2013-04-23 19:08:16",
     "updated_at":"2013-04-23 19:10:40",
     "saisin_id":"6",
-    "photo_id":"355",
+    "photo_id":"\\N",
+    "geo_point_id":355,
     "date":"2013-04-20 00:00:00",
     "photo_file_name":"DSC04122.JPG",
     "photo_content_type":"image/jpeg",
@@ -2548,8 +2664,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":422,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":417,
@@ -2560,7 +2676,8 @@
     "created_at":"2013-04-23 19:13:17",
     "updated_at":"2013-09-24 19:40:56",
     "saisin_id":"6",
-    "photo_id":"356",
+    "photo_id":"\\N",
+    "geo_point_id":356,
     "date":"2013-04-20 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1h7g67q",
     "photo_content_type":"image/jpeg",
@@ -2570,8 +2687,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":423,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":418,
@@ -2582,7 +2699,8 @@
     "created_at":"2013-04-23 19:16:16",
     "updated_at":"2013-09-24 19:41:00",
     "saisin_id":"6",
-    "photo_id":"357",
+    "photo_id":"\\N",
+    "geo_point_id":357,
     "date":"2013-04-20 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1lurnr5",
     "photo_content_type":"image/jpeg",
@@ -2592,8 +2710,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":424,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":419,
@@ -2604,7 +2722,8 @@
     "created_at":"2013-04-23 19:19:50",
     "updated_at":"2013-04-23 19:21:03",
     "saisin_id":"6",
-    "photo_id":"358",
+    "photo_id":"\\N",
+    "geo_point_id":358,
     "date":"2013-04-21 00:00:00",
     "photo_file_name":"DSC04159.JPG",
     "photo_content_type":"image/jpeg",
@@ -2614,8 +2733,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":425,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":420,
@@ -2626,7 +2745,8 @@
     "created_at":"2013-04-23 19:22:22",
     "updated_at":"2013-04-23 19:25:09",
     "saisin_id":"6",
-    "photo_id":"359",
+    "photo_id":"\\N",
+    "geo_point_id":359,
     "date":"2013-04-21 00:00:00",
     "photo_file_name":"DSC04163-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -2636,8 +2756,8 @@
     "province_id":"35",
     "country_id":6,
     "point_order":426,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":421,
@@ -2648,7 +2768,8 @@
     "created_at":"2013-04-23 19:27:57",
     "updated_at":"2013-09-24 19:41:05",
     "saisin_id":"6",
-    "photo_id":"360",
+    "photo_id":"\\N",
+    "geo_point_id":360,
     "date":"2013-04-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-mayah1",
     "photo_content_type":"image/jpeg",
@@ -2658,8 +2779,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":427,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":422,
@@ -2670,7 +2791,8 @@
     "created_at":"2013-04-23 19:29:17",
     "updated_at":"2013-09-24 19:41:08",
     "saisin_id":"6",
-    "photo_id":"361",
+    "photo_id":"\\N",
+    "geo_point_id":361,
     "date":"2013-04-21 00:00:00",
     "photo_file_name":"open-uri20130924-1571-zyq7ks",
     "photo_content_type":"image/jpeg",
@@ -2680,8 +2802,8 @@
     "province_id":"12",
     "country_id":6,
     "point_order":428,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":423,
@@ -2692,7 +2814,8 @@
     "created_at":"2013-04-23 19:58:38",
     "updated_at":"2013-09-24 19:41:12",
     "saisin_id":"6",
-    "photo_id":"362",
+    "photo_id":"\\N",
+    "geo_point_id":362,
     "date":"2013-04-22 00:00:00",
     "photo_file_name":"open-uri20130924-1571-8i33s6",
     "photo_content_type":"image/jpeg",
@@ -2702,8 +2825,8 @@
     "province_id":"11",
     "country_id":5,
     "point_order":429,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":424,
@@ -2714,7 +2837,8 @@
     "created_at":"2013-04-25 20:38:06",
     "updated_at":"2013-09-24 19:41:15",
     "saisin_id":"6",
-    "photo_id":"363",
+    "photo_id":"\\N",
+    "geo_point_id":363,
     "date":"2013-04-23 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1dspnio",
     "photo_content_type":"image/jpeg",
@@ -2724,8 +2848,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":430,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":425,
@@ -2736,7 +2860,8 @@
     "created_at":"2013-04-25 21:02:10",
     "updated_at":"2013-09-24 19:41:17",
     "saisin_id":"6",
-    "photo_id":"364",
+    "photo_id":"\\N",
+    "geo_point_id":364,
     "date":"2013-04-23 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1wruv2a",
     "photo_content_type":"image/jpeg",
@@ -2746,8 +2871,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":431,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":426,
@@ -2758,7 +2883,8 @@
     "created_at":"2013-04-25 21:05:21",
     "updated_at":"2013-09-24 19:41:20",
     "saisin_id":"6",
-    "photo_id":"365",
+    "photo_id":"\\N",
+    "geo_point_id":365,
     "date":"2013-04-23 00:00:00",
     "photo_file_name":"open-uri20130924-1571-qlx2x2",
     "photo_content_type":"image/jpeg",
@@ -2768,8 +2894,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":432,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":427,
@@ -2780,7 +2906,8 @@
     "created_at":"2013-04-25 21:06:43",
     "updated_at":"2013-09-24 19:41:24",
     "saisin_id":"6",
-    "photo_id":"366",
+    "photo_id":"\\N",
+    "geo_point_id":366,
     "date":"2013-04-23 00:00:00",
     "photo_file_name":"open-uri20130924-1571-q1y5hp",
     "photo_content_type":"image/jpeg",
@@ -2790,8 +2917,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":433,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":428,
@@ -2802,7 +2929,8 @@
     "created_at":"2013-04-25 21:13:10",
     "updated_at":"2013-09-24 19:41:28",
     "saisin_id":"6",
-    "photo_id":"367",
+    "photo_id":"\\N",
+    "geo_point_id":367,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1uj7uvh",
     "photo_content_type":"image/jpeg",
@@ -2812,8 +2940,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":434,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":429,
@@ -2824,7 +2952,8 @@
     "created_at":"2013-04-25 21:18:37",
     "updated_at":"2013-09-24 19:41:32",
     "saisin_id":"6",
-    "photo_id":"368",
+    "photo_id":"\\N",
+    "geo_point_id":368,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1dft990",
     "photo_content_type":"image/jpeg",
@@ -2834,8 +2963,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":435,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":430,
@@ -2846,7 +2975,8 @@
     "created_at":"2013-04-25 21:58:58",
     "updated_at":"2013-09-24 19:41:35",
     "saisin_id":"6",
-    "photo_id":"369",
+    "photo_id":"\\N",
+    "geo_point_id":369,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1y0wig8",
     "photo_content_type":"image/jpeg",
@@ -2856,8 +2986,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":436,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":431,
@@ -2868,7 +2998,8 @@
     "created_at":"2013-04-25 22:06:20",
     "updated_at":"2013-09-24 19:41:37",
     "saisin_id":"6",
-    "photo_id":"370",
+    "photo_id":"\\N",
+    "geo_point_id":370,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1gmpnsb",
     "photo_content_type":"image/jpeg",
@@ -2878,8 +3009,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":437,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":432,
@@ -2890,7 +3021,8 @@
     "created_at":"2013-04-25 22:10:57",
     "updated_at":"2013-09-24 19:41:40",
     "saisin_id":"6",
-    "photo_id":"371",
+    "photo_id":"\\N",
+    "geo_point_id":371,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-oglthc",
     "photo_content_type":"image/jpeg",
@@ -2900,8 +3032,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":438,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":433,
@@ -2912,7 +3044,8 @@
     "created_at":"2013-04-25 22:15:23",
     "updated_at":"2013-09-24 19:41:43",
     "saisin_id":"6",
-    "photo_id":"372",
+    "photo_id":"\\N",
+    "geo_point_id":372,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1dgrykz",
     "photo_content_type":"image/jpeg",
@@ -2922,8 +3055,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":439,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":434,
@@ -2934,7 +3067,8 @@
     "created_at":"2013-04-25 22:18:09",
     "updated_at":"2013-09-24 19:41:46",
     "saisin_id":"6",
-    "photo_id":"373",
+    "photo_id":"\\N",
+    "geo_point_id":373,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1u235x8",
     "photo_content_type":"image/jpeg",
@@ -2944,8 +3078,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":440,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":435,
@@ -2956,7 +3090,8 @@
     "created_at":"2013-04-25 22:20:29",
     "updated_at":"2013-09-24 19:41:49",
     "saisin_id":"6",
-    "photo_id":"374",
+    "photo_id":"\\N",
+    "geo_point_id":374,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-4w7897",
     "photo_content_type":"image/jpeg",
@@ -2966,8 +3101,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":441,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":436,
@@ -2978,7 +3113,8 @@
     "created_at":"2013-04-25 22:26:56",
     "updated_at":"2013-09-24 19:41:52",
     "saisin_id":"6",
-    "photo_id":"375",
+    "photo_id":"\\N",
+    "geo_point_id":375,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1hdf5bt",
     "photo_content_type":"image/jpeg",
@@ -2988,8 +3124,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":442,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":437,
@@ -3000,7 +3136,8 @@
     "created_at":"2013-04-25 22:29:22",
     "updated_at":"2013-09-24 19:41:55",
     "saisin_id":"6",
-    "photo_id":"376",
+    "photo_id":"\\N",
+    "geo_point_id":376,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1ditb52",
     "photo_content_type":"image/jpeg",
@@ -3010,8 +3147,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":443,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":438,
@@ -3022,7 +3159,8 @@
     "created_at":"2013-04-25 22:31:37",
     "updated_at":"2013-09-24 19:41:58",
     "saisin_id":"6",
-    "photo_id":"377",
+    "photo_id":"\\N",
+    "geo_point_id":377,
     "date":"2013-04-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1dfnrnf",
     "photo_content_type":"image/jpeg",
@@ -3032,8 +3170,8 @@
     "province_id":"13",
     "country_id":7,
     "point_order":444,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":446,
@@ -3044,7 +3182,8 @@
     "created_at":"2013-04-26 20:37:58",
     "updated_at":"2013-09-24 19:42:01",
     "saisin_id":"6",
-    "photo_id":"385",
+    "photo_id":"\\N",
+    "geo_point_id":385,
     "date":"2013-04-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-g1294o",
     "photo_content_type":"image/jpeg",
@@ -3054,8 +3193,8 @@
     "province_id":"59",
     "country_id":7,
     "point_order":452,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":447,
@@ -3066,7 +3205,8 @@
     "created_at":"2013-04-27 08:57:21",
     "updated_at":"2013-09-24 19:42:04",
     "saisin_id":"6",
-    "photo_id":"386",
+    "photo_id":"\\N",
+    "geo_point_id":386,
     "date":"2013-04-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1utbpc6",
     "photo_content_type":"image/jpeg",
@@ -3076,8 +3216,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":453,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":448,
@@ -3088,7 +3228,8 @@
     "created_at":"2013-04-27 09:02:30",
     "updated_at":"2013-09-24 19:42:08",
     "saisin_id":"6",
-    "photo_id":"387",
+    "photo_id":"\\N",
+    "geo_point_id":387,
     "date":"2013-04-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-nruw4n",
     "photo_content_type":"image/jpeg",
@@ -3098,8 +3239,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":454,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":449,
@@ -3110,7 +3251,8 @@
     "created_at":"2013-04-27 09:19:21",
     "updated_at":"2013-09-24 19:42:11",
     "saisin_id":"6",
-    "photo_id":"389",
+    "photo_id":"\\N",
+    "geo_point_id":389,
     "date":"2013-04-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-kv99w9",
     "photo_content_type":"image/jpeg",
@@ -3120,8 +3262,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":456,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":450,
@@ -3132,7 +3274,8 @@
     "created_at":"2013-04-27 09:24:35",
     "updated_at":"2013-09-24 19:42:13",
     "saisin_id":"6",
-    "photo_id":"390",
+    "photo_id":"\\N",
+    "geo_point_id":390,
     "date":"2013-04-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1a7k8rn",
     "photo_content_type":"image/jpeg",
@@ -3142,8 +3285,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":457,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":451,
@@ -3154,7 +3297,8 @@
     "created_at":"2013-04-27 09:32:46",
     "updated_at":"2013-04-27 09:32:46",
     "saisin_id":"6",
-    "photo_id":"391",
+    "photo_id":"\\N",
+    "geo_point_id":391,
     "date":"2013-04-26 00:00:00",
     "photo_file_name":"DSC04450-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -3164,8 +3308,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":458,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":452,
@@ -3176,7 +3320,8 @@
     "created_at":"2013-04-27 09:38:45",
     "updated_at":"2013-09-24 19:42:17",
     "saisin_id":"6",
-    "photo_id":"392",
+    "photo_id":"\\N",
+    "geo_point_id":392,
     "date":"2013-04-26 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1vjieib",
     "photo_content_type":"image/jpeg",
@@ -3186,8 +3331,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":459,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":453,
@@ -3198,7 +3343,8 @@
     "created_at":"2013-04-27 10:08:56",
     "updated_at":"2013-09-24 19:42:20",
     "saisin_id":"6",
-    "photo_id":"393",
+    "photo_id":"\\N",
+    "geo_point_id":393,
     "date":"2013-04-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1tgejs5",
     "photo_content_type":"image/jpeg",
@@ -3208,8 +3354,8 @@
     "province_id":"59",
     "country_id":7,
     "point_order":460,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":455,
@@ -3220,7 +3366,8 @@
     "created_at":"2013-04-27 12:27:06",
     "updated_at":"2013-09-24 19:42:24",
     "saisin_id":"6",
-    "photo_id":"395",
+    "photo_id":"\\N",
+    "geo_point_id":395,
     "date":"2013-04-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-evjt78",
     "photo_content_type":"image/jpeg",
@@ -3230,8 +3377,8 @@
     "province_id":"59",
     "country_id":7,
     "point_order":462,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":457,
@@ -3242,7 +3389,8 @@
     "created_at":"2013-04-27 19:15:43",
     "updated_at":"2013-09-24 19:42:27",
     "saisin_id":"6",
-    "photo_id":"397",
+    "photo_id":"\\N",
+    "geo_point_id":397,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1ms22l5",
     "photo_content_type":"image/jpeg",
@@ -3252,8 +3400,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":465,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":458,
@@ -3264,7 +3412,8 @@
     "created_at":"2013-04-27 19:19:10",
     "updated_at":"2013-09-24 19:42:30",
     "saisin_id":"6",
-    "photo_id":"398",
+    "photo_id":"\\N",
+    "geo_point_id":398,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ulvhdm",
     "photo_content_type":"image/jpeg",
@@ -3274,8 +3423,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":464,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":460,
@@ -3286,7 +3435,8 @@
     "created_at":"2013-04-27 19:24:20",
     "updated_at":"2013-09-24 19:42:32",
     "saisin_id":"6",
-    "photo_id":"400",
+    "photo_id":"\\N",
+    "geo_point_id":400,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ankkh9",
     "photo_content_type":"image/jpeg",
@@ -3296,8 +3446,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":467,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":461,
@@ -3308,7 +3458,8 @@
     "created_at":"2013-04-27 19:27:35",
     "updated_at":"2013-09-24 19:42:36",
     "saisin_id":"6",
-    "photo_id":"401",
+    "photo_id":"\\N",
+    "geo_point_id":401,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-6rrngf",
     "photo_content_type":"image/jpeg",
@@ -3318,8 +3469,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":468,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":462,
@@ -3330,7 +3481,8 @@
     "created_at":"2013-04-27 19:33:00",
     "updated_at":"2013-09-24 19:42:40",
     "saisin_id":"6",
-    "photo_id":"402",
+    "photo_id":"\\N",
+    "geo_point_id":402,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1uc45g1",
     "photo_content_type":"image/jpeg",
@@ -3340,8 +3492,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":469,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":463,
@@ -3352,7 +3504,8 @@
     "created_at":"2013-04-27 19:37:50",
     "updated_at":"2013-09-24 19:42:42",
     "saisin_id":"6",
-    "photo_id":"403",
+    "photo_id":"\\N",
+    "geo_point_id":403,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1nryvun",
     "photo_content_type":"image/jpeg",
@@ -3362,8 +3515,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":470,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":464,
@@ -3374,7 +3527,8 @@
     "created_at":"2013-04-27 19:40:35",
     "updated_at":"2013-09-24 19:42:45",
     "saisin_id":"6",
-    "photo_id":"404",
+    "photo_id":"\\N",
+    "geo_point_id":404,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1yd0vbz",
     "photo_content_type":"image/jpeg",
@@ -3384,8 +3538,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":471,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":465,
@@ -3396,7 +3550,8 @@
     "created_at":"2013-04-27 19:42:36",
     "updated_at":"2013-09-24 19:42:49",
     "saisin_id":"6",
-    "photo_id":"405",
+    "photo_id":"\\N",
+    "geo_point_id":405,
     "date":"2013-04-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-r94y95",
     "photo_content_type":"image/jpeg",
@@ -3406,8 +3561,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":472,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":467,
@@ -3418,7 +3573,8 @@
     "created_at":"2013-04-28 18:27:02",
     "updated_at":"2013-04-28 18:38:10",
     "saisin_id":"6",
-    "photo_id":"407",
+    "photo_id":"\\N",
+    "geo_point_id":407,
     "date":"2013-04-25 00:00:00",
     "photo_file_name":"DSC04439.JPG",
     "photo_content_type":"image/jpeg",
@@ -3428,8 +3584,8 @@
     "province_id":"59",
     "country_id":7,
     "point_order":474,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":468,
@@ -3440,7 +3596,8 @@
     "created_at":"2013-04-28 18:49:29",
     "updated_at":"2013-04-28 18:50:27",
     "saisin_id":"6",
-    "photo_id":"408",
+    "photo_id":"\\N",
+    "geo_point_id":408,
     "date":"2013-04-25 00:00:00",
     "photo_file_name":"DSC_0396.JPG",
     "photo_content_type":"image/jpeg",
@@ -3450,8 +3607,8 @@
     "province_id":"59",
     "country_id":7,
     "point_order":475,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":469,
@@ -3462,7 +3619,8 @@
     "created_at":"2013-04-28 18:51:50",
     "updated_at":"2013-09-24 19:42:54",
     "saisin_id":"6",
-    "photo_id":"409",
+    "photo_id":"\\N",
+    "geo_point_id":409,
     "date":"2013-04-28 00:00:00",
     "photo_file_name":"open-uri20130924-1571-x6ejwt",
     "photo_content_type":"image/jpeg",
@@ -3472,8 +3630,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":476,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":470,
@@ -3484,7 +3642,8 @@
     "created_at":"2013-04-28 18:57:42",
     "updated_at":"2013-09-24 19:42:57",
     "saisin_id":"6",
-    "photo_id":"410",
+    "photo_id":"\\N",
+    "geo_point_id":410,
     "date":"2013-04-28 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1ir7bwl",
     "photo_content_type":"image/jpeg",
@@ -3494,8 +3653,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":477,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":471,
@@ -3506,7 +3665,8 @@
     "created_at":"2013-04-28 18:59:55",
     "updated_at":"2013-04-28 18:59:55",
     "saisin_id":"6",
-    "photo_id":"411",
+    "photo_id":"\\N",
+    "geo_point_id":411,
     "date":"2013-04-28 00:00:00",
     "photo_file_name":"DSC04549.JPG",
     "photo_content_type":"image/jpeg",
@@ -3516,8 +3676,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":478,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":472,
@@ -3528,7 +3688,8 @@
     "created_at":"2013-04-28 19:04:40",
     "updated_at":"2013-09-24 19:43:01",
     "saisin_id":"6",
-    "photo_id":"412",
+    "photo_id":"\\N",
+    "geo_point_id":412,
     "date":"2013-04-28 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1bea0w9",
     "photo_content_type":"image/jpeg",
@@ -3538,8 +3699,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":479,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":473,
@@ -3550,7 +3711,8 @@
     "created_at":"2013-04-28 19:10:36",
     "updated_at":"2013-09-24 19:43:04",
     "saisin_id":"6",
-    "photo_id":"413",
+    "photo_id":"\\N",
+    "geo_point_id":413,
     "date":"2013-04-28 00:00:00",
     "photo_file_name":"open-uri20130924-1571-yaqcmd",
     "photo_content_type":"image/jpeg",
@@ -3560,8 +3722,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":480,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":474,
@@ -3572,7 +3734,8 @@
     "created_at":"2013-04-28 19:12:57",
     "updated_at":"2013-04-28 19:12:57",
     "saisin_id":"6",
-    "photo_id":"414",
+    "photo_id":"\\N",
+    "geo_point_id":414,
     "date":"2013-04-28 00:00:00",
     "photo_file_name":"DSC04618.JPG",
     "photo_content_type":"image/jpeg",
@@ -3582,8 +3745,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":481,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":478,
@@ -3594,7 +3757,8 @@
     "created_at":"2013-04-29 16:14:22",
     "updated_at":"2013-09-24 19:43:09",
     "saisin_id":"6",
-    "photo_id":"418",
+    "photo_id":"\\N",
+    "geo_point_id":418,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-cpdj0v",
     "photo_content_type":"image/jpeg",
@@ -3604,8 +3768,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":485,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":479,
@@ -3616,7 +3780,8 @@
     "created_at":"2013-04-29 16:18:31",
     "updated_at":"2013-09-24 19:43:11",
     "saisin_id":"6",
-    "photo_id":"419",
+    "photo_id":"\\N",
+    "geo_point_id":419,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-w74ioj",
     "photo_content_type":"image/jpeg",
@@ -3626,8 +3791,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":486,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":480,
@@ -3638,7 +3803,8 @@
     "created_at":"2013-04-29 16:21:27",
     "updated_at":"2013-09-24 19:43:15",
     "saisin_id":"6",
-    "photo_id":"420",
+    "photo_id":"\\N",
+    "geo_point_id":420,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-5a3tef",
     "photo_content_type":"image/jpeg",
@@ -3648,8 +3814,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":487,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":481,
@@ -3660,7 +3826,8 @@
     "created_at":"2013-04-29 16:26:37",
     "updated_at":"2013-09-24 19:43:19",
     "saisin_id":"6",
-    "photo_id":"421",
+    "photo_id":"\\N",
+    "geo_point_id":421,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-117rulq",
     "photo_content_type":"image/jpeg",
@@ -3670,8 +3837,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":488,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":482,
@@ -3682,7 +3849,8 @@
     "created_at":"2013-04-29 16:29:33",
     "updated_at":"2013-09-24 19:43:21",
     "saisin_id":"6",
-    "photo_id":"422",
+    "photo_id":"\\N",
+    "geo_point_id":422,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-tribgu",
     "photo_content_type":"image/jpeg",
@@ -3692,8 +3860,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":489,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":483,
@@ -3704,7 +3872,8 @@
     "created_at":"2013-04-29 16:32:52",
     "updated_at":"2013-09-24 19:43:26",
     "saisin_id":"6",
-    "photo_id":"423",
+    "photo_id":"\\N",
+    "geo_point_id":423,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-47f85a",
     "photo_content_type":"image/jpeg",
@@ -3714,8 +3883,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":490,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":484,
@@ -3726,7 +3895,8 @@
     "created_at":"2013-04-29 16:38:53",
     "updated_at":"2013-09-24 19:43:28",
     "saisin_id":"6",
-    "photo_id":"424",
+    "photo_id":"\\N",
+    "geo_point_id":424,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1rmh9w3",
     "photo_content_type":"image/jpeg",
@@ -3736,8 +3906,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":491,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":485,
@@ -3748,7 +3918,8 @@
     "created_at":"2013-04-29 16:41:49",
     "updated_at":"2013-09-24 19:43:31",
     "saisin_id":"6",
-    "photo_id":"425",
+    "photo_id":"\\N",
+    "geo_point_id":425,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-uv1wvk",
     "photo_content_type":"image/jpeg",
@@ -3758,8 +3929,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":492,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":486,
@@ -3770,7 +3941,8 @@
     "created_at":"2013-04-29 16:44:24",
     "updated_at":"2013-09-24 19:43:33",
     "saisin_id":"6",
-    "photo_id":"426",
+    "photo_id":"\\N",
+    "geo_point_id":426,
     "date":"2013-04-29 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1jkqmjz",
     "photo_content_type":"image/jpeg",
@@ -3780,8 +3952,8 @@
     "province_id":"14",
     "country_id":7,
     "point_order":493,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":488,
@@ -3792,7 +3964,8 @@
     "created_at":"2013-04-30 20:12:35",
     "updated_at":"2013-09-24 19:43:36",
     "saisin_id":"6",
-    "photo_id":"428",
+    "photo_id":"\\N",
+    "geo_point_id":428,
     "date":"2013-04-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-101ht2r",
     "photo_content_type":"image/jpeg",
@@ -3802,8 +3975,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":495,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":489,
@@ -3814,7 +3987,8 @@
     "created_at":"2013-04-30 20:18:23",
     "updated_at":"2013-09-24 19:43:38",
     "saisin_id":"6",
-    "photo_id":"429",
+    "photo_id":"\\N",
+    "geo_point_id":429,
     "date":"2013-04-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1uexjf6",
     "photo_content_type":"image/jpeg",
@@ -3824,8 +3998,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":496,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":490,
@@ -3836,7 +4010,8 @@
     "created_at":"2013-04-30 20:20:33",
     "updated_at":"2013-09-24 19:43:42",
     "saisin_id":"6",
-    "photo_id":"430",
+    "photo_id":"\\N",
+    "geo_point_id":430,
     "date":"2013-04-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-24vm5h",
     "photo_content_type":"image/jpeg",
@@ -3846,8 +4021,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":497,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":491,
@@ -3858,7 +4033,8 @@
     "created_at":"2013-04-30 20:21:43",
     "updated_at":"2013-09-24 19:43:45",
     "saisin_id":"6",
-    "photo_id":"431",
+    "photo_id":"\\N",
+    "geo_point_id":431,
     "date":"2013-04-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-13w5xrf",
     "photo_content_type":"image/jpeg",
@@ -3868,8 +4044,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":498,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":492,
@@ -3880,7 +4056,8 @@
     "created_at":"2013-05-01 20:11:57",
     "updated_at":"2013-05-02 20:17:43",
     "saisin_id":"6",
-    "photo_id":"432",
+    "photo_id":"\\N",
+    "geo_point_id":432,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"DSC04725.JPG",
     "photo_content_type":"image/jpeg",
@@ -3890,8 +4067,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":499,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":493,
@@ -3902,7 +4079,8 @@
     "created_at":"2013-05-01 20:22:06",
     "updated_at":"2013-05-02 20:17:19",
     "saisin_id":"6",
-    "photo_id":"433",
+    "photo_id":"\\N",
+    "geo_point_id":433,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"DSC04734.JPG",
     "photo_content_type":"image/jpeg",
@@ -3912,8 +4090,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":500,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":494,
@@ -3924,7 +4102,8 @@
     "created_at":"2013-05-01 20:27:26",
     "updated_at":"2013-05-02 20:16:46",
     "saisin_id":"6",
-    "photo_id":"434",
+    "photo_id":"\\N",
+    "geo_point_id":434,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"DSC04754-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -3934,8 +4113,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":501,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":495,
@@ -3946,7 +4125,8 @@
     "created_at":"2013-05-01 20:30:12",
     "updated_at":"2013-09-24 19:43:50",
     "saisin_id":"6",
-    "photo_id":"435",
+    "photo_id":"\\N",
+    "geo_point_id":435,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-13a0kt7",
     "photo_content_type":"image/jpeg",
@@ -3956,8 +4136,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":502,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":496,
@@ -3968,7 +4148,8 @@
     "created_at":"2013-05-01 20:32:54",
     "updated_at":"2013-09-24 19:43:53",
     "saisin_id":"6",
-    "photo_id":"436",
+    "photo_id":"\\N",
+    "geo_point_id":436,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-fux01e",
     "photo_content_type":"image/jpeg",
@@ -3978,8 +4159,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":503,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":497,
@@ -3990,7 +4171,8 @@
     "created_at":"2013-05-01 20:35:08",
     "updated_at":"2013-09-24 19:43:55",
     "saisin_id":"6",
-    "photo_id":"437",
+    "photo_id":"\\N",
+    "geo_point_id":437,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1oy5m0s",
     "photo_content_type":"image/jpeg",
@@ -4000,8 +4182,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":504,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":498,
@@ -4012,7 +4194,8 @@
     "created_at":"2013-05-01 20:37:42",
     "updated_at":"2013-05-02 20:14:18",
     "saisin_id":"6",
-    "photo_id":"438",
+    "photo_id":"\\N",
+    "geo_point_id":438,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"DSC04776.JPG",
     "photo_content_type":"image/jpeg",
@@ -4022,8 +4205,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":505,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":499,
@@ -4034,7 +4217,8 @@
     "created_at":"2013-05-01 20:39:43",
     "updated_at":"2013-09-24 19:43:59",
     "saisin_id":"6",
-    "photo_id":"439",
+    "photo_id":"\\N",
+    "geo_point_id":439,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-e8y5se",
     "photo_content_type":"image/jpeg",
@@ -4044,8 +4228,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":506,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":500,
@@ -4056,7 +4240,8 @@
     "created_at":"2013-05-01 20:42:59",
     "updated_at":"2013-09-24 19:44:03",
     "saisin_id":"6",
-    "photo_id":"440",
+    "photo_id":"\\N",
+    "geo_point_id":440,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-o9xewc",
     "photo_content_type":"image/jpeg",
@@ -4066,8 +4251,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":507,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":501,
@@ -4078,7 +4263,8 @@
     "created_at":"2013-05-01 20:45:58",
     "updated_at":"2013-09-24 19:44:05",
     "saisin_id":"6",
-    "photo_id":"441",
+    "photo_id":"\\N",
+    "geo_point_id":441,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1khap7h",
     "photo_content_type":"image/jpeg",
@@ -4088,8 +4274,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":508,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":502,
@@ -4100,7 +4286,8 @@
     "created_at":"2013-05-01 20:48:33",
     "updated_at":"2013-09-24 19:44:08",
     "saisin_id":"6",
-    "photo_id":"442",
+    "photo_id":"\\N",
+    "geo_point_id":442,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-wjp5a0",
     "photo_content_type":"image/jpeg",
@@ -4110,8 +4297,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":509,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":503,
@@ -4122,7 +4309,8 @@
     "created_at":"2013-05-01 20:49:21",
     "updated_at":"2013-09-24 19:44:10",
     "saisin_id":"6",
-    "photo_id":"443",
+    "photo_id":"\\N",
+    "geo_point_id":443,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1twvson",
     "photo_content_type":"image/jpeg",
@@ -4132,8 +4320,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":510,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":504,
@@ -4144,7 +4332,8 @@
     "created_at":"2013-05-01 20:56:23",
     "updated_at":"2013-09-24 19:44:13",
     "saisin_id":"6",
-    "photo_id":"444",
+    "photo_id":"\\N",
+    "geo_point_id":444,
     "date":"2013-05-01 00:00:00",
     "photo_file_name":"open-uri20130924-1571-78l1tp",
     "photo_content_type":"image/jpeg",
@@ -4154,8 +4343,8 @@
     "province_id":"60",
     "country_id":5,
     "point_order":511,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":506,
@@ -4166,7 +4355,8 @@
     "created_at":"2013-05-02 19:58:30",
     "updated_at":"2013-05-02 20:04:07",
     "saisin_id":"6",
-    "photo_id":"446",
+    "photo_id":"\\N",
+    "geo_point_id":446,
     "date":"2013-05-02 00:00:00",
     "photo_file_name":"DSC04822-1.jpg",
     "photo_content_type":"image/jpeg",
@@ -4176,8 +4366,8 @@
     "province_id":"61",
     "country_id":5,
     "point_order":513,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":508,
@@ -4188,7 +4378,8 @@
     "created_at":"2013-05-03 18:10:46",
     "updated_at":"2013-09-24 19:44:17",
     "saisin_id":"6",
-    "photo_id":"448",
+    "photo_id":"\\N",
+    "geo_point_id":448,
     "date":"2013-05-03 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1i09ofk",
     "photo_content_type":"image/jpeg",
@@ -4198,8 +4389,8 @@
     "province_id":"61",
     "country_id":5,
     "point_order":515,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":509,
@@ -4210,7 +4401,8 @@
     "created_at":"2013-05-04 20:41:43",
     "updated_at":"2013-09-24 19:44:20",
     "saisin_id":"6",
-    "photo_id":"449",
+    "photo_id":"\\N",
+    "geo_point_id":449,
     "date":"2013-05-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-13kznf5",
     "photo_content_type":"image/jpeg",
@@ -4220,8 +4412,8 @@
     "province_id":"61",
     "country_id":5,
     "point_order":516,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":510,
@@ -4232,7 +4424,8 @@
     "created_at":"2013-05-04 20:51:29",
     "updated_at":"2013-09-24 19:44:24",
     "saisin_id":"6",
-    "photo_id":"450",
+    "photo_id":"\\N",
+    "geo_point_id":450,
     "date":"2013-05-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1vfowv1",
     "photo_content_type":"image/jpeg",
@@ -4242,8 +4435,8 @@
     "province_id":"61",
     "country_id":5,
     "point_order":517,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":511,
@@ -4254,7 +4447,8 @@
     "created_at":"2013-05-04 20:57:30",
     "updated_at":"2013-09-24 19:44:26",
     "saisin_id":"6",
-    "photo_id":"451",
+    "photo_id":"\\N",
+    "geo_point_id":451,
     "date":"2013-05-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-198kcei",
     "photo_content_type":"image/jpeg",
@@ -4264,8 +4458,8 @@
     "province_id":"61",
     "country_id":5,
     "point_order":518,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":512,
@@ -4276,7 +4470,8 @@
     "created_at":"2013-05-04 21:05:56",
     "updated_at":"2013-09-24 19:44:30",
     "saisin_id":"6",
-    "photo_id":"452",
+    "photo_id":"\\N",
+    "geo_point_id":452,
     "date":"2013-05-04 00:00:00",
     "photo_file_name":"open-uri20130924-1571-3gfit0",
     "photo_content_type":"image/jpeg",
@@ -4286,8 +4481,8 @@
     "province_id":"61",
     "country_id":5,
     "point_order":519,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":513,
@@ -4298,7 +4493,8 @@
     "created_at":"2013-05-05 18:37:22",
     "updated_at":"2013-09-24 19:44:32",
     "saisin_id":"6",
-    "photo_id":"453",
+    "photo_id":"\\N",
+    "geo_point_id":453,
     "date":"2013-05-05 00:00:00",
     "photo_file_name":"open-uri20130924-1571-o6x656",
     "photo_content_type":"image/jpeg",
@@ -4308,8 +4504,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":520,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":514,
@@ -4320,7 +4516,8 @@
     "created_at":"2013-05-05 18:40:15",
     "updated_at":"2013-09-24 19:44:35",
     "saisin_id":"6",
-    "photo_id":"454",
+    "photo_id":"\\N",
+    "geo_point_id":454,
     "date":"2013-05-05 00:00:00",
     "photo_file_name":"open-uri20130924-1571-kfrt0m",
     "photo_content_type":"image/jpeg",
@@ -4330,8 +4527,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":521,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":515,
@@ -4342,7 +4539,8 @@
     "created_at":"2013-05-05 18:46:21",
     "updated_at":"2013-09-24 19:44:37",
     "saisin_id":"6",
-    "photo_id":"455",
+    "photo_id":"\\N",
+    "geo_point_id":455,
     "date":"2013-05-05 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1xe0u7r",
     "photo_content_type":"image/jpeg",
@@ -4352,8 +4550,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":522,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":516,
@@ -4364,7 +4562,8 @@
     "created_at":"2013-05-05 18:48:09",
     "updated_at":"2013-09-24 19:44:40",
     "saisin_id":"6",
-    "photo_id":"456",
+    "photo_id":"\\N",
+    "geo_point_id":456,
     "date":"2013-05-05 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1j5h5u0",
     "photo_content_type":"image/jpeg",
@@ -4374,8 +4573,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":523,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":517,
@@ -4386,7 +4585,8 @@
     "created_at":"2013-05-05 18:55:06",
     "updated_at":"2013-09-24 19:44:42",
     "saisin_id":"6",
-    "photo_id":"457",
+    "photo_id":"\\N",
+    "geo_point_id":457,
     "date":"2013-05-05 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1g7ocdz",
     "photo_content_type":"image/jpeg",
@@ -4396,8 +4596,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":524,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":518,
@@ -4408,7 +4608,8 @@
     "created_at":"2013-05-06 19:54:01",
     "updated_at":"2013-09-24 19:44:45",
     "saisin_id":"6",
-    "photo_id":"458",
+    "photo_id":"\\N",
+    "geo_point_id":458,
     "date":"2013-05-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-u3964s",
     "photo_content_type":"image/jpeg",
@@ -4418,8 +4619,8 @@
     "province_id":"15",
     "country_id":8,
     "point_order":525,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":520,
@@ -4430,7 +4631,8 @@
     "created_at":"2013-05-06 20:00:54",
     "updated_at":"2013-09-24 19:44:47",
     "saisin_id":"6",
-    "photo_id":"460",
+    "photo_id":"\\N",
+    "geo_point_id":460,
     "date":"2013-05-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-k9xhxy",
     "photo_content_type":"image/jpeg",
@@ -4440,8 +4642,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":527,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":521,
@@ -4452,7 +4654,8 @@
     "created_at":"2013-05-06 20:03:11",
     "updated_at":"2013-09-24 19:44:54",
     "saisin_id":"6",
-    "photo_id":"461",
+    "photo_id":"\\N",
+    "geo_point_id":461,
     "date":"2013-05-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-102p2bc",
     "photo_content_type":"image/jpeg",
@@ -4462,8 +4665,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":528,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":522,
@@ -4474,7 +4677,8 @@
     "created_at":"2013-05-07 17:35:10",
     "updated_at":"2013-09-24 19:44:57",
     "saisin_id":"6",
-    "photo_id":"462",
+    "photo_id":"\\N",
+    "geo_point_id":462,
     "date":"2013-05-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-f4prlf",
     "photo_content_type":"image/jpeg",
@@ -4484,8 +4688,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":529,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":523,
@@ -4496,7 +4700,8 @@
     "created_at":"2013-05-07 17:36:54",
     "updated_at":"2013-09-24 19:45:00",
     "saisin_id":"6",
-    "photo_id":"463",
+    "photo_id":"\\N",
+    "geo_point_id":463,
     "date":"2013-05-06 00:00:00",
     "photo_file_name":"open-uri20130924-1571-4xqz0v",
     "photo_content_type":"image/jpeg",
@@ -4506,8 +4711,8 @@
     "province_id":"16",
     "country_id":9,
     "point_order":530,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":524,
@@ -4518,7 +4723,8 @@
     "created_at":"2013-05-07 17:39:02",
     "updated_at":"2013-09-24 19:45:02",
     "saisin_id":"6",
-    "photo_id":"464",
+    "photo_id":"\\N",
+    "geo_point_id":464,
     "date":"2013-05-07 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1aiaw06",
     "photo_content_type":"image/jpeg",
@@ -4528,8 +4734,8 @@
     "province_id":"7",
     "country_id":8,
     "point_order":531,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":525,
@@ -4540,7 +4746,8 @@
     "created_at":"2013-05-07 17:41:07",
     "updated_at":"2013-09-24 19:45:05",
     "saisin_id":"6",
-    "photo_id":"465",
+    "photo_id":"\\N",
+    "geo_point_id":465,
     "date":"2013-05-07 00:00:00",
     "photo_file_name":"open-uri20130924-1571-txqxdo",
     "photo_content_type":"image/jpeg",
@@ -4550,8 +4757,8 @@
     "province_id":"7",
     "country_id":8,
     "point_order":532,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":526,
@@ -4562,7 +4769,8 @@
     "created_at":"2013-05-07 17:43:08",
     "updated_at":"2013-09-24 19:45:08",
     "saisin_id":"6",
-    "photo_id":"466",
+    "photo_id":"\\N",
+    "geo_point_id":466,
     "date":"2013-05-07 00:00:00",
     "photo_file_name":"open-uri20130924-1571-77lllr",
     "photo_content_type":"image/jpeg",
@@ -4572,8 +4780,8 @@
     "province_id":"7",
     "country_id":8,
     "point_order":533,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":527,
@@ -4584,7 +4792,8 @@
     "created_at":"2013-05-08 18:30:36",
     "updated_at":"2013-09-24 19:45:11",
     "saisin_id":"6",
-    "photo_id":"467",
+    "photo_id":"\\N",
+    "geo_point_id":467,
     "date":"2013-05-08 00:00:00",
     "photo_file_name":"open-uri20130924-1571-86tali",
     "photo_content_type":"image/jpeg",
@@ -4594,8 +4803,8 @@
     "province_id":"17",
     "country_id":9,
     "point_order":534,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":528,
@@ -4606,7 +4815,8 @@
     "created_at":"2013-05-10 20:39:05",
     "updated_at":"2013-09-24 19:45:13",
     "saisin_id":"6",
-    "photo_id":"468",
+    "photo_id":"\\N",
+    "geo_point_id":468,
     "date":"2013-05-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-zmo70t",
     "photo_content_type":"image/jpeg",
@@ -4616,8 +4826,8 @@
     "province_id":"17",
     "country_id":9,
     "point_order":535,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":529,
@@ -4628,7 +4838,8 @@
     "created_at":"2013-05-10 20:44:30",
     "updated_at":"2013-09-24 19:45:16",
     "saisin_id":"6",
-    "photo_id":"469",
+    "photo_id":"\\N",
+    "geo_point_id":469,
     "date":"2013-05-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-43w96e",
     "photo_content_type":"image/jpeg",
@@ -4638,8 +4849,8 @@
     "province_id":"17",
     "country_id":9,
     "point_order":536,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":530,
@@ -4650,7 +4861,8 @@
     "created_at":"2013-05-10 20:51:12",
     "updated_at":"2013-09-24 19:45:19",
     "saisin_id":"6",
-    "photo_id":"470",
+    "photo_id":"\\N",
+    "geo_point_id":470,
     "date":"2013-05-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-cwz12l",
     "photo_content_type":"image/jpeg",
@@ -4660,8 +4872,8 @@
     "province_id":"17",
     "country_id":9,
     "point_order":537,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":531,
@@ -4672,7 +4884,8 @@
     "created_at":"2013-05-10 20:56:08",
     "updated_at":"2013-09-24 19:45:22",
     "saisin_id":"6",
-    "photo_id":"471",
+    "photo_id":"\\N",
+    "geo_point_id":471,
     "date":"2013-05-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ej7j56",
     "photo_content_type":"image/jpeg",
@@ -4682,8 +4895,8 @@
     "province_id":"17",
     "country_id":9,
     "point_order":538,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":532,
@@ -4694,7 +4907,8 @@
     "created_at":"2013-05-10 21:00:25",
     "updated_at":"2013-09-24 19:45:24",
     "saisin_id":"6",
-    "photo_id":"472",
+    "photo_id":"\\N",
+    "geo_point_id":472,
     "date":"2013-05-09 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1fn82a6",
     "photo_content_type":"image/jpeg",
@@ -4704,8 +4918,8 @@
     "province_id":"17",
     "country_id":9,
     "point_order":539,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":533,
@@ -4716,7 +4930,8 @@
     "created_at":"2013-05-10 21:44:07",
     "updated_at":"2013-09-24 19:45:26",
     "saisin_id":"6",
-    "photo_id":"473",
+    "photo_id":"\\N",
+    "geo_point_id":473,
     "date":"2013-05-10 00:00:00",
     "photo_file_name":"open-uri20130924-1571-9wvm19",
     "photo_content_type":"image/jpeg",
@@ -4726,8 +4941,8 @@
     "province_id":"17",
     "country_id":9,
     "point_order":540,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":534,
@@ -4738,7 +4953,8 @@
     "created_at":"2013-05-10 21:48:13",
     "updated_at":"2013-09-24 19:45:28",
     "saisin_id":"6",
-    "photo_id":"474",
+    "photo_id":"\\N",
+    "geo_point_id":474,
     "date":"2013-05-10 00:00:00",
     "photo_file_name":"open-uri20130924-1571-kdmy9m",
     "photo_content_type":"image/jpeg",
@@ -4748,8 +4964,8 @@
     "province_id":"62",
     "country_id":9,
     "point_order":541,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":535,
@@ -4760,7 +4976,8 @@
     "created_at":"2013-05-10 21:54:47",
     "updated_at":"2013-09-24 19:45:32",
     "saisin_id":"6",
-    "photo_id":"475",
+    "photo_id":"\\N",
+    "geo_point_id":475,
     "date":"2013-05-10 00:00:00",
     "photo_file_name":"open-uri20130924-1571-8qal1z",
     "photo_content_type":"image/jpeg",
@@ -4770,8 +4987,8 @@
     "province_id":"62",
     "country_id":9,
     "point_order":542,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":536,
@@ -4782,7 +4999,8 @@
     "created_at":"2013-05-10 22:01:10",
     "updated_at":"2013-09-24 19:45:34",
     "saisin_id":"6",
-    "photo_id":"476",
+    "photo_id":"\\N",
+    "geo_point_id":476,
     "date":"2013-05-10 00:00:00",
     "photo_file_name":"open-uri20130924-1571-13fiop9",
     "photo_content_type":"image/jpeg",
@@ -4792,8 +5010,8 @@
     "province_id":"62",
     "country_id":9,
     "point_order":543,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":537,
@@ -4804,7 +5022,8 @@
     "created_at":"2013-05-11 20:21:42",
     "updated_at":"2013-09-24 19:45:36",
     "saisin_id":"6",
-    "photo_id":"477",
+    "photo_id":"\\N",
+    "geo_point_id":477,
     "date":"2013-05-11 00:00:00",
     "photo_file_name":"open-uri20130924-1571-dpwqxu",
     "photo_content_type":"image/jpeg",
@@ -4814,8 +5033,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":544,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":538,
@@ -4826,7 +5045,8 @@
     "created_at":"2013-05-11 20:30:01",
     "updated_at":"2013-09-24 19:45:39",
     "saisin_id":"6",
-    "photo_id":"478",
+    "photo_id":"\\N",
+    "geo_point_id":478,
     "date":"2013-05-11 00:00:00",
     "photo_file_name":"open-uri20130924-1571-8wdsf2",
     "photo_content_type":"image/jpeg",
@@ -4836,8 +5056,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":545,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":539,
@@ -4848,7 +5068,8 @@
     "created_at":"2013-05-11 20:39:08",
     "updated_at":"2013-09-24 19:45:42",
     "saisin_id":"6",
-    "photo_id":"479",
+    "photo_id":"\\N",
+    "geo_point_id":479,
     "date":"2013-05-11 00:00:00",
     "photo_file_name":"open-uri20130924-1571-7j4799",
     "photo_content_type":"image/jpeg",
@@ -4858,8 +5079,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":546,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":540,
@@ -4870,7 +5091,8 @@
     "created_at":"2013-05-11 20:47:55",
     "updated_at":"2013-09-24 19:45:45",
     "saisin_id":"6",
-    "photo_id":"480",
+    "photo_id":"\\N",
+    "geo_point_id":480,
     "date":"2013-05-11 00:00:00",
     "photo_file_name":"open-uri20130924-1571-xpijr0",
     "photo_content_type":"image/jpeg",
@@ -4880,8 +5102,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":547,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":541,
@@ -4892,7 +5114,8 @@
     "created_at":"2013-05-12 18:33:09",
     "updated_at":"2013-09-24 19:45:48",
     "saisin_id":"6",
-    "photo_id":"481",
+    "photo_id":"\\N",
+    "geo_point_id":481,
     "date":"2013-05-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-16dh99g",
     "photo_content_type":"image/jpeg",
@@ -4902,8 +5125,8 @@
     "province_id":"18",
     "country_id":22,
     "point_order":548,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":542,
@@ -4914,7 +5137,8 @@
     "created_at":"2013-05-12 18:51:06",
     "updated_at":"2013-09-24 19:45:51",
     "saisin_id":"6",
-    "photo_id":"482",
+    "photo_id":"\\N",
+    "geo_point_id":482,
     "date":"2013-05-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1a313r2",
     "photo_content_type":"image/jpeg",
@@ -4924,8 +5148,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":550,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":543,
@@ -4936,7 +5160,8 @@
     "created_at":"2013-05-12 18:56:16",
     "updated_at":"2013-09-24 19:45:53",
     "saisin_id":"6",
-    "photo_id":"483",
+    "photo_id":"\\N",
+    "geo_point_id":483,
     "date":"2013-05-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1gziczh",
     "photo_content_type":"image/jpeg",
@@ -4946,8 +5171,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":549,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":544,
@@ -4958,7 +5183,8 @@
     "created_at":"2013-05-12 19:02:01",
     "updated_at":"2013-09-24 19:45:57",
     "saisin_id":"6",
-    "photo_id":"484",
+    "photo_id":"\\N",
+    "geo_point_id":484,
     "date":"2013-05-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-lzd4vv",
     "photo_content_type":"image/jpeg",
@@ -4968,8 +5194,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":551,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":545,
@@ -4980,7 +5206,8 @@
     "created_at":"2013-05-12 19:29:03",
     "updated_at":"2013-09-24 19:46:02",
     "saisin_id":"6",
-    "photo_id":"485",
+    "photo_id":"\\N",
+    "geo_point_id":485,
     "date":"2013-05-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-161th4l",
     "photo_content_type":"image/jpeg",
@@ -4990,8 +5217,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":552,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":546,
@@ -5002,7 +5229,8 @@
     "created_at":"2013-05-12 20:37:19",
     "updated_at":"2013-09-24 19:46:05",
     "saisin_id":"6",
-    "photo_id":"486",
+    "photo_id":"\\N",
+    "geo_point_id":486,
     "date":"2013-05-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1nyri79",
     "photo_content_type":"image/jpeg",
@@ -5012,8 +5240,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":553,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":547,
@@ -5024,7 +5252,8 @@
     "created_at":"2013-05-12 20:47:26",
     "updated_at":"2013-09-24 19:46:07",
     "saisin_id":"6",
-    "photo_id":"487",
+    "photo_id":"\\N",
+    "geo_point_id":487,
     "date":"2013-05-12 00:00:00",
     "photo_file_name":"open-uri20130924-1571-161ea6q",
     "photo_content_type":"image/jpeg",
@@ -5034,8 +5263,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":554,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":548,
@@ -5046,7 +5275,8 @@
     "created_at":"2013-05-13 18:59:28",
     "updated_at":"2013-09-24 19:46:10",
     "saisin_id":"6",
-    "photo_id":"488",
+    "photo_id":"\\N",
+    "geo_point_id":488,
     "date":"2013-05-13 00:00:00",
     "photo_file_name":"open-uri20130924-1571-p3gi2",
     "photo_content_type":"image/jpeg",
@@ -5056,8 +5286,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":555,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":549,
@@ -5068,7 +5298,8 @@
     "created_at":"2013-05-13 19:05:05",
     "updated_at":"2013-09-24 19:46:13",
     "saisin_id":"6",
-    "photo_id":"489",
+    "photo_id":"\\N",
+    "geo_point_id":489,
     "date":"2013-05-13 00:00:00",
     "photo_file_name":"open-uri20130924-1571-szpj6c",
     "photo_content_type":"image/jpeg",
@@ -5078,8 +5309,8 @@
     "province_id":"35",
     "country_id":22,
     "point_order":556,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":550,
@@ -5090,7 +5321,8 @@
     "created_at":"2013-05-13 19:09:56",
     "updated_at":"2013-09-24 19:46:15",
     "saisin_id":"6",
-    "photo_id":"490",
+    "photo_id":"\\N",
+    "geo_point_id":490,
     "date":"2013-05-13 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1ncxio1",
     "photo_content_type":"image/jpeg",
@@ -5100,8 +5332,8 @@
     "province_id":"18",
     "country_id":22,
     "point_order":557,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":551,
@@ -5112,7 +5344,8 @@
     "created_at":"2013-05-13 19:24:33",
     "updated_at":"2013-09-24 19:46:17",
     "saisin_id":"6",
-    "photo_id":"491",
+    "photo_id":"\\N",
+    "geo_point_id":491,
     "date":"2013-05-13 00:00:00",
     "photo_file_name":"open-uri20130924-1571-vorlb4",
     "photo_content_type":"image/jpeg",
@@ -5122,8 +5355,8 @@
     "province_id":"18",
     "country_id":22,
     "point_order":558,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":552,
@@ -5134,7 +5367,8 @@
     "created_at":"2013-05-13 19:31:02",
     "updated_at":"2013-09-24 19:46:20",
     "saisin_id":"6",
-    "photo_id":"492",
+    "photo_id":"\\N",
+    "geo_point_id":492,
     "date":"2013-05-13 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1qxaduu",
     "photo_content_type":"image/jpeg",
@@ -5144,8 +5378,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":559,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":553,
@@ -5156,7 +5390,8 @@
     "created_at":"2013-05-13 19:45:42",
     "updated_at":"2013-09-24 19:46:23",
     "saisin_id":"6",
-    "photo_id":"493",
+    "photo_id":"\\N",
+    "geo_point_id":493,
     "date":"2013-05-13 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1y0npkw",
     "photo_content_type":"image/jpeg",
@@ -5166,8 +5401,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":560,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":554,
@@ -5178,7 +5413,8 @@
     "created_at":"2013-05-13 19:52:02",
     "updated_at":"2013-09-24 19:46:25",
     "saisin_id":"6",
-    "photo_id":"494",
+    "photo_id":"\\N",
+    "geo_point_id":494,
     "date":"2013-05-13 00:00:00",
     "photo_file_name":"open-uri20130924-1571-18jfy0p",
     "photo_content_type":"image/jpeg",
@@ -5188,8 +5424,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":561,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":555,
@@ -5200,7 +5436,8 @@
     "created_at":"2013-05-14 13:57:58",
     "updated_at":"2013-09-24 19:46:28",
     "saisin_id":"6",
-    "photo_id":"495",
+    "photo_id":"\\N",
+    "geo_point_id":495,
     "date":"2013-05-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-h8ie0b",
     "photo_content_type":"image/jpeg",
@@ -5210,8 +5447,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":562,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":556,
@@ -5222,7 +5459,8 @@
     "created_at":"2013-05-14 14:03:58",
     "updated_at":"2013-09-24 19:46:30",
     "saisin_id":"6",
-    "photo_id":"496",
+    "photo_id":"\\N",
+    "geo_point_id":496,
     "date":"2013-05-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-47lzlm",
     "photo_content_type":"image/jpeg",
@@ -5232,8 +5470,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":564,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":557,
@@ -5244,7 +5482,8 @@
     "created_at":"2013-05-14 14:08:06",
     "updated_at":"2013-09-24 19:46:33",
     "saisin_id":"6",
-    "photo_id":"497",
+    "photo_id":"\\N",
+    "geo_point_id":497,
     "date":"2013-05-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1c0ml87",
     "photo_content_type":"image/jpeg",
@@ -5254,8 +5493,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":563,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":558,
@@ -5266,7 +5505,8 @@
     "created_at":"2013-05-14 14:15:42",
     "updated_at":"2013-09-24 19:46:36",
     "saisin_id":"6",
-    "photo_id":"498",
+    "photo_id":"\\N",
+    "geo_point_id":498,
     "date":"2013-05-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-jrcier",
     "photo_content_type":"image/jpeg",
@@ -5276,8 +5516,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":565,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":559,
@@ -5288,7 +5528,8 @@
     "created_at":"2013-05-14 14:19:05",
     "updated_at":"2013-09-24 19:46:39",
     "saisin_id":"6",
-    "photo_id":"499",
+    "photo_id":"\\N",
+    "geo_point_id":499,
     "date":"2013-05-14 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1me5mw",
     "photo_content_type":"image/jpeg",
@@ -5298,8 +5539,8 @@
     "province_id":"18",
     "country_id":9,
     "point_order":566,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":560,
@@ -5310,7 +5551,8 @@
     "created_at":"2013-05-15 17:55:16",
     "updated_at":"2013-09-24 19:46:43",
     "saisin_id":"6",
-    "photo_id":"500",
+    "photo_id":"\\N",
+    "geo_point_id":500,
     "date":"2013-05-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1eawkdv",
     "photo_content_type":"image/jpeg",
@@ -5320,8 +5562,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":567,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":561,
@@ -5332,7 +5574,8 @@
     "created_at":"2013-05-15 18:06:18",
     "updated_at":"2013-09-24 19:46:46",
     "saisin_id":"6",
-    "photo_id":"501",
+    "photo_id":"\\N",
+    "geo_point_id":501,
     "date":"2013-05-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1bdhm77",
     "photo_content_type":"image/jpeg",
@@ -5342,8 +5585,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":568,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":562,
@@ -5354,7 +5597,8 @@
     "created_at":"2013-05-15 18:26:20",
     "updated_at":"2013-09-24 19:46:49",
     "saisin_id":"6",
-    "photo_id":"502",
+    "photo_id":"\\N",
+    "geo_point_id":502,
     "date":"2013-05-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-vldq1t",
     "photo_content_type":"image/jpeg",
@@ -5364,8 +5608,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":569,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":563,
@@ -5376,7 +5620,8 @@
     "created_at":"2013-05-15 18:37:00",
     "updated_at":"2013-09-24 19:46:53",
     "saisin_id":"6",
-    "photo_id":"503",
+    "photo_id":"\\N",
+    "geo_point_id":503,
     "date":"2013-05-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ofg17a",
     "photo_content_type":"image/jpeg",
@@ -5386,8 +5631,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":570,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":564,
@@ -5398,7 +5643,8 @@
     "created_at":"2013-05-15 18:51:30",
     "updated_at":"2013-09-24 19:46:56",
     "saisin_id":"6",
-    "photo_id":"504",
+    "photo_id":"\\N",
+    "geo_point_id":504,
     "date":"2013-05-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-gymwib",
     "photo_content_type":"image/jpeg",
@@ -5408,8 +5654,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":571,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":565,
@@ -5420,7 +5666,8 @@
     "created_at":"2013-05-15 18:55:30",
     "updated_at":"2013-09-24 19:46:59",
     "saisin_id":"6",
-    "photo_id":"505",
+    "photo_id":"\\N",
+    "geo_point_id":505,
     "date":"2013-05-15 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1umcl74",
     "photo_content_type":"image/jpeg",
@@ -5430,8 +5677,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":572,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":566,
@@ -5442,7 +5689,8 @@
     "created_at":"2013-05-16 18:54:46",
     "updated_at":"2013-05-16 18:54:46",
     "saisin_id":"6",
-    "photo_id":"506",
+    "photo_id":"\\N",
+    "geo_point_id":506,
     "date":"2013-05-16 00:00:00",
     "photo_file_name":"DSC05494.JPG",
     "photo_content_type":"image/jpeg",
@@ -5452,8 +5700,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":573,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":567,
@@ -5464,7 +5712,8 @@
     "created_at":"2013-05-16 19:18:17",
     "updated_at":"2013-09-24 19:47:05",
     "saisin_id":"6",
-    "photo_id":"507",
+    "photo_id":"\\N",
+    "geo_point_id":507,
     "date":"2013-05-16 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1w1f6l0",
     "photo_content_type":"image/jpeg",
@@ -5474,8 +5723,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":574,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":568,
@@ -5486,7 +5735,8 @@
     "created_at":"2013-05-16 19:32:04",
     "updated_at":"2013-09-24 19:47:08",
     "saisin_id":"6",
-    "photo_id":"508",
+    "photo_id":"\\N",
+    "geo_point_id":508,
     "date":"2013-05-16 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1vmxej",
     "photo_content_type":"image/jpeg",
@@ -5496,8 +5746,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":575,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":569,
@@ -5508,7 +5758,8 @@
     "created_at":"2013-05-16 19:38:50",
     "updated_at":"2013-09-24 19:47:10",
     "saisin_id":"6",
-    "photo_id":"509",
+    "photo_id":"\\N",
+    "geo_point_id":509,
     "date":"2013-05-16 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1y6ld6d",
     "photo_content_type":"image/jpeg",
@@ -5518,8 +5769,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":576,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":570,
@@ -5530,7 +5781,8 @@
     "created_at":"2013-05-17 18:08:13",
     "updated_at":"2013-09-24 19:47:14",
     "saisin_id":"6",
-    "photo_id":"510",
+    "photo_id":"\\N",
+    "geo_point_id":510,
     "date":"2013-05-17 00:00:00",
     "photo_file_name":"open-uri20130924-1571-guflo7",
     "photo_content_type":"image/jpeg",
@@ -5540,8 +5792,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":577,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":571,
@@ -5552,7 +5804,8 @@
     "created_at":"2013-05-18 17:02:14",
     "updated_at":"2013-09-24 19:47:17",
     "saisin_id":"6",
-    "photo_id":"511",
+    "photo_id":"\\N",
+    "geo_point_id":511,
     "date":"2013-05-18 00:00:00",
     "photo_file_name":"open-uri20130924-1571-10lk9yv",
     "photo_content_type":"image/jpeg",
@@ -5562,8 +5815,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":578,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":572,
@@ -5574,7 +5827,8 @@
     "created_at":"2013-05-18 17:05:16",
     "updated_at":"2013-09-24 19:47:19",
     "saisin_id":"6",
-    "photo_id":"512",
+    "photo_id":"\\N",
+    "geo_point_id":512,
     "date":"2013-05-18 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1gcp4j7",
     "photo_content_type":"image/jpeg",
@@ -5584,8 +5838,8 @@
     "province_id":"19",
     "country_id":9,
     "point_order":579,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":573,
@@ -5596,7 +5850,8 @@
     "created_at":"2013-05-21 18:55:37",
     "updated_at":"2013-09-24 19:47:23",
     "saisin_id":"6",
-    "photo_id":"513",
+    "photo_id":"\\N",
+    "geo_point_id":513,
     "date":"2013-05-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ss3h0m",
     "photo_content_type":"image/jpeg",
@@ -5606,8 +5861,8 @@
     "province_id":"20",
     "country_id":9,
     "point_order":580,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":574,
@@ -5618,7 +5873,8 @@
     "created_at":"2013-05-21 19:04:35",
     "updated_at":"2013-09-24 19:47:25",
     "saisin_id":"6",
-    "photo_id":"514",
+    "photo_id":"\\N",
+    "geo_point_id":514,
     "date":"2013-05-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-m6u51l",
     "photo_content_type":"image/jpeg",
@@ -5628,8 +5884,8 @@
     "province_id":"20",
     "country_id":9,
     "point_order":581,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":575,
@@ -5640,7 +5896,8 @@
     "created_at":"2013-05-21 19:08:09",
     "updated_at":"2013-09-24 19:47:29",
     "saisin_id":"6",
-    "photo_id":"515",
+    "photo_id":"\\N",
+    "geo_point_id":515,
     "date":"2013-05-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1undhsm",
     "photo_content_type":"image/jpeg",
@@ -5650,8 +5907,8 @@
     "province_id":"20",
     "country_id":9,
     "point_order":582,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":576,
@@ -5662,7 +5919,8 @@
     "created_at":"2013-05-21 19:14:08",
     "updated_at":"2013-09-24 19:47:32",
     "saisin_id":"6",
-    "photo_id":"516",
+    "photo_id":"\\N",
+    "geo_point_id":516,
     "date":"2013-05-19 00:00:00",
     "photo_file_name":"open-uri20130924-1571-19huotb",
     "photo_content_type":"image/jpeg",
@@ -5672,8 +5930,8 @@
     "province_id":"20",
     "country_id":9,
     "point_order":583,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":577,
@@ -5684,7 +5942,8 @@
     "created_at":"2013-05-21 19:23:37",
     "updated_at":"2013-09-24 19:47:35",
     "saisin_id":"6",
-    "photo_id":"517",
+    "photo_id":"\\N",
+    "geo_point_id":517,
     "date":"2013-05-20 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1khfzz8",
     "photo_content_type":"image/jpeg",
@@ -5694,8 +5953,8 @@
     "province_id":"20",
     "country_id":9,
     "point_order":584,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":578,
@@ -5706,7 +5965,8 @@
     "created_at":"2013-05-21 20:25:13",
     "updated_at":"2013-09-24 19:47:38",
     "saisin_id":"6",
-    "photo_id":"518",
+    "photo_id":"\\N",
+    "geo_point_id":518,
     "date":"2013-05-21 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1vj0g9i",
     "photo_content_type":"image/jpeg",
@@ -5716,8 +5976,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":585,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":579,
@@ -5728,7 +5988,8 @@
     "created_at":"2013-05-21 20:26:52",
     "updated_at":"2013-09-24 19:47:41",
     "saisin_id":"6",
-    "photo_id":"519",
+    "photo_id":"\\N",
+    "geo_point_id":519,
     "date":"2013-05-21 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1f42za9",
     "photo_content_type":"image/jpeg",
@@ -5738,8 +5999,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":586,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":580,
@@ -5750,7 +6011,8 @@
     "created_at":"2013-05-21 20:32:45",
     "updated_at":"2013-09-24 19:47:44",
     "saisin_id":"6",
-    "photo_id":"520",
+    "photo_id":"\\N",
+    "geo_point_id":520,
     "date":"2013-05-21 00:00:00",
     "photo_file_name":"open-uri20130924-1571-g4casf",
     "photo_content_type":"image/jpeg",
@@ -5760,8 +6022,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":587,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":581,
@@ -5772,7 +6034,8 @@
     "created_at":"2013-05-22 21:40:09",
     "updated_at":"2013-09-24 19:47:47",
     "saisin_id":"6",
-    "photo_id":"521",
+    "photo_id":"\\N",
+    "geo_point_id":521,
     "date":"2013-05-22 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1ggdp2i",
     "photo_content_type":"image/jpeg",
@@ -5782,8 +6045,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":588,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":582,
@@ -5794,7 +6057,8 @@
     "created_at":"2013-05-22 21:45:48",
     "updated_at":"2013-09-24 19:47:50",
     "saisin_id":"6",
-    "photo_id":"522",
+    "photo_id":"\\N",
+    "geo_point_id":522,
     "date":"2013-05-22 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1gw90c5",
     "photo_content_type":"image/jpeg",
@@ -5804,8 +6068,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":589,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":583,
@@ -5816,7 +6080,8 @@
     "created_at":"2013-05-22 21:51:48",
     "updated_at":"2013-09-24 19:47:53",
     "saisin_id":"6",
-    "photo_id":"523",
+    "photo_id":"\\N",
+    "geo_point_id":523,
     "date":"2013-05-22 00:00:00",
     "photo_file_name":"open-uri20130924-1571-11kf7q3",
     "photo_content_type":"image/jpeg",
@@ -5826,8 +6091,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":590,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":584,
@@ -5838,7 +6103,8 @@
     "created_at":"2013-05-22 21:57:31",
     "updated_at":"2013-05-22 22:00:37",
     "saisin_id":"6",
-    "photo_id":"524",
+    "photo_id":"\\N",
+    "geo_point_id":524,
     "date":"2013-05-22 00:00:00",
     "photo_file_name":"DSC_0440.JPG",
     "photo_content_type":"image/jpeg",
@@ -5848,8 +6114,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":591,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":585,
@@ -5860,7 +6126,8 @@
     "created_at":"2013-05-22 22:07:34",
     "updated_at":"2013-09-24 19:47:58",
     "saisin_id":"6",
-    "photo_id":"525",
+    "photo_id":"\\N",
+    "geo_point_id":525,
     "date":"2013-05-22 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1j3kosh",
     "photo_content_type":"image/jpeg",
@@ -5870,8 +6137,8 @@
     "province_id":"21",
     "country_id":10,
     "point_order":592,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":586,
@@ -5882,7 +6149,8 @@
     "created_at":"2013-05-23 21:37:31",
     "updated_at":"2013-09-24 19:48:01",
     "saisin_id":"6",
-    "photo_id":"526",
+    "photo_id":"\\N",
+    "geo_point_id":526,
     "date":"2013-05-23 00:00:00",
     "photo_file_name":"open-uri20130924-1571-bwutb7",
     "photo_content_type":"image/jpeg",
@@ -5892,8 +6160,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":593,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":587,
@@ -5904,7 +6172,8 @@
     "created_at":"2013-05-23 21:45:22",
     "updated_at":"2013-09-24 19:48:03",
     "saisin_id":"6",
-    "photo_id":"527",
+    "photo_id":"\\N",
+    "geo_point_id":527,
     "date":"2013-05-23 00:00:00",
     "photo_file_name":"open-uri20130924-1571-ty2n1l",
     "photo_content_type":"image/jpeg",
@@ -5914,8 +6183,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":594,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":588,
@@ -5926,7 +6195,8 @@
     "created_at":"2013-05-24 18:16:45",
     "updated_at":"2013-05-24 18:16:45",
     "saisin_id":"6",
-    "photo_id":"528",
+    "photo_id":"\\N",
+    "geo_point_id":528,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"DSC05638.JPG",
     "photo_content_type":"image/jpeg",
@@ -5936,8 +6206,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":595,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":589,
@@ -5948,7 +6218,8 @@
     "created_at":"2013-05-24 18:19:56",
     "updated_at":"2013-09-24 19:48:06",
     "saisin_id":"6",
-    "photo_id":"529",
+    "photo_id":"\\N",
+    "geo_point_id":529,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1n7oxjy",
     "photo_content_type":"image/jpeg",
@@ -5958,8 +6229,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":596,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":590,
@@ -5970,7 +6241,8 @@
     "created_at":"2013-05-24 18:27:40",
     "updated_at":"2013-09-24 19:48:10",
     "saisin_id":"6",
-    "photo_id":"530",
+    "photo_id":"\\N",
+    "geo_point_id":530,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-deim9o",
     "photo_content_type":"image/jpeg",
@@ -5980,8 +6252,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":597,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":591,
@@ -5992,7 +6264,8 @@
     "created_at":"2013-05-24 18:32:20",
     "updated_at":"2013-09-24 19:48:14",
     "saisin_id":"6",
-    "photo_id":"531",
+    "photo_id":"\\N",
+    "geo_point_id":531,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-oxyrjt",
     "photo_content_type":"image/jpeg",
@@ -6002,8 +6275,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":598,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":592,
@@ -6014,7 +6287,8 @@
     "created_at":"2013-05-24 18:38:48",
     "updated_at":"2013-09-24 19:48:17",
     "saisin_id":"6",
-    "photo_id":"532",
+    "photo_id":"\\N",
+    "geo_point_id":532,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-178pz25",
     "photo_content_type":"image/jpeg",
@@ -6024,8 +6298,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":599,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":593,
@@ -6036,7 +6310,8 @@
     "created_at":"2013-05-24 18:45:18",
     "updated_at":"2013-09-24 19:48:21",
     "saisin_id":"6",
-    "photo_id":"533",
+    "photo_id":"\\N",
+    "geo_point_id":533,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1y14sxd",
     "photo_content_type":"image/jpeg",
@@ -6046,8 +6321,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":600,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":594,
@@ -6058,7 +6333,8 @@
     "created_at":"2013-05-24 18:55:08",
     "updated_at":"2013-09-24 19:48:24",
     "saisin_id":"6",
-    "photo_id":"534",
+    "photo_id":"\\N",
+    "geo_point_id":534,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-xr32c6",
     "photo_content_type":"image/jpeg",
@@ -6068,8 +6344,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":601,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":595,
@@ -6080,7 +6356,8 @@
     "created_at":"2013-05-24 18:58:08",
     "updated_at":"2013-09-24 19:48:27",
     "saisin_id":"6",
-    "photo_id":"535",
+    "photo_id":"\\N",
+    "geo_point_id":535,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-5nypn0",
     "photo_content_type":"image/jpeg",
@@ -6090,8 +6367,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":602,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":596,
@@ -6102,7 +6379,8 @@
     "created_at":"2013-05-24 19:00:23",
     "updated_at":"2013-09-24 19:48:30",
     "saisin_id":"6",
-    "photo_id":"536",
+    "photo_id":"\\N",
+    "geo_point_id":536,
     "date":"2013-05-24 00:00:00",
     "photo_file_name":"open-uri20130924-1571-4vwgnb",
     "photo_content_type":"image/jpeg",
@@ -6112,8 +6390,8 @@
     "province_id":"35",
     "country_id":11,
     "point_order":603,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":597,
@@ -6124,7 +6402,8 @@
     "created_at":"2013-05-26 17:22:14",
     "updated_at":"2013-09-24 19:48:33",
     "saisin_id":"6",
-    "photo_id":"537",
+    "photo_id":"\\N",
+    "geo_point_id":537,
     "date":"2013-05-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1sbrsac",
     "photo_content_type":"image/jpeg",
@@ -6134,8 +6413,8 @@
     "province_id":"22",
     "country_id":11,
     "point_order":604,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":598,
@@ -6146,7 +6425,8 @@
     "created_at":"2013-05-26 18:12:39",
     "updated_at":"2013-09-24 19:48:36",
     "saisin_id":"6",
-    "photo_id":"538",
+    "photo_id":"\\N",
+    "geo_point_id":538,
     "date":"2013-05-25 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1laiz7m",
     "photo_content_type":"image/jpeg",
@@ -6156,8 +6436,8 @@
     "province_id":"35",
     "country_id":11,
     "point_order":605,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":599,
@@ -6168,7 +6448,8 @@
     "created_at":"2013-05-27 16:55:51",
     "updated_at":"2013-09-24 19:48:39",
     "saisin_id":"6",
-    "photo_id":"539",
+    "photo_id":"\\N",
+    "geo_point_id":539,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-jxwvgp",
     "photo_content_type":"image/jpeg",
@@ -6178,8 +6459,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":606,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":600,
@@ -6190,7 +6471,8 @@
     "created_at":"2013-05-27 16:59:11",
     "updated_at":"2013-09-24 19:48:42",
     "saisin_id":"6",
-    "photo_id":"540",
+    "photo_id":"\\N",
+    "geo_point_id":540,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-oxmj87",
     "photo_content_type":"image/jpeg",
@@ -6200,8 +6482,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":607,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":601,
@@ -6212,7 +6494,8 @@
     "created_at":"2013-05-27 17:04:37",
     "updated_at":"2013-09-24 19:48:45",
     "saisin_id":"6",
-    "photo_id":"541",
+    "photo_id":"\\N",
+    "geo_point_id":541,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1igz500",
     "photo_content_type":"image/jpeg",
@@ -6222,8 +6505,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":608,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":602,
@@ -6234,7 +6517,8 @@
     "created_at":"2013-05-27 17:06:05",
     "updated_at":"2013-09-24 19:48:47",
     "saisin_id":"6",
-    "photo_id":"542",
+    "photo_id":"\\N",
+    "geo_point_id":542,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-2mvx7z",
     "photo_content_type":"image/jpeg",
@@ -6244,8 +6528,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":609,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":603,
@@ -6256,7 +6540,8 @@
     "created_at":"2013-05-27 17:06:37",
     "updated_at":"2013-09-24 19:48:50",
     "saisin_id":"6",
-    "photo_id":"543",
+    "photo_id":"\\N",
+    "geo_point_id":543,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1t099rx",
     "photo_content_type":"image/jpeg",
@@ -6266,8 +6551,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":610,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":604,
@@ -6278,7 +6563,8 @@
     "created_at":"2013-05-27 17:07:19",
     "updated_at":"2013-09-24 19:48:53",
     "saisin_id":"6",
-    "photo_id":"544",
+    "photo_id":"\\N",
+    "geo_point_id":544,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-e2kn3b",
     "photo_content_type":"image/jpeg",
@@ -6288,8 +6574,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":611,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":605,
@@ -6300,7 +6586,8 @@
     "created_at":"2013-05-27 17:08:26",
     "updated_at":"2013-09-24 19:48:56",
     "saisin_id":"6",
-    "photo_id":"545",
+    "photo_id":"\\N",
+    "geo_point_id":545,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-11ag6cu",
     "photo_content_type":"image/jpeg",
@@ -6310,8 +6597,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":612,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":606,
@@ -6322,7 +6609,8 @@
     "created_at":"2013-05-27 17:10:53",
     "updated_at":"2013-05-27 17:10:53",
     "saisin_id":"6",
-    "photo_id":"546",
+    "photo_id":"\\N",
+    "geo_point_id":546,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"DSC_0732.JPG",
     "photo_content_type":"image/jpeg",
@@ -6332,8 +6620,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":613,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":607,
@@ -6344,7 +6632,8 @@
     "created_at":"2013-05-27 21:48:22",
     "updated_at":"2013-09-24 19:48:59",
     "saisin_id":"6",
-    "photo_id":"547",
+    "photo_id":"\\N",
+    "geo_point_id":547,
     "date":"2013-05-27 00:00:00",
     "photo_file_name":"open-uri20130924-1571-1bmha0x",
     "photo_content_type":"image/jpeg",
@@ -6354,8 +6643,8 @@
     "province_id":"23",
     "country_id":1,
     "point_order":614,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   },
   {
     "id":608,
@@ -6366,7 +6655,8 @@
     "created_at":"2013-07-19 19:05:38",
     "updated_at":"2013-09-24 19:49:02",
     "saisin_id":"6",
-    "photo_id":"548",
+    "photo_id":"\\N",
+    "geo_point_id":548,
     "date":"2013-05-30 00:00:00",
     "photo_file_name":"open-uri20130924-1571-13qjufy",
     "photo_content_type":"image/jpeg",
@@ -6376,7 +6666,7 @@
     "province_id":"3",
     "country_id":1,
     "point_order":615,
-    "FIELD19":"",
-    "FIELD20":""
+    "FIELD20":"",
+    "FIELD21":""
   }
 ]
