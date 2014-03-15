@@ -19,14 +19,14 @@ body {
 	cursor: pointer;
 }
 #nav #next {
-	background: transparent url('assets/images/next.png') no-repeat center center;
+	background: transparent url('../images/next.png') no-repeat center center;
 }
 #nav #next.disabled {
-	background: transparent url('assets/images/next_disabled.png') no-repeat center center;
+	background: transparent url('../images/next_disabled.png') no-repeat center center;
 }
 #nav #back {
-	background: transparent url('assets/images/back.png') no-repeat center center;
+	background: transparent url('../images/back.png') no-repeat center center;
 }
 #nav #back.disabled {
-	background: transparent url('assets/images/back_disabled.png') no-repeat center center;
+	background: transparent url('../images/back_disabled.png') no-repeat center center;
 }
