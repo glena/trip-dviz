@@ -21,6 +21,7 @@ $newdata = array();
 $lastCountry = null;
 $lastCity = null;
 $obj = null;
+$cityVisit = null;
 
 foreach ($data as $item)
 {
@@ -34,15 +35,13 @@ foreach ($data as $item)
 
     if ($lastCity != $item->city_id)
     {
+        if ($cityVisit)
+        {
+            $countryVisit->addCity($cityVisit);
+        }
+        
     	$city = City::Get($item->city_id);
-
-    	if ($city === null)
-    	{
-    		var_dump($item);exit;
-    	}
-
 		$cityVisit = new CityVisit($item->city_id, $city->name);
-		$countryVisit->addCity($cityVisit);
         $lastCity = $item->city_id;
     }
 

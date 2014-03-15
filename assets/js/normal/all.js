@@ -28,23 +28,13 @@ $(document).ready(function(){
 
 function readCountries(data, index)
 {
-	console.log('load country ' + index);
 	if (index == data.length) return;
-
 	var country = data[index];
-
 	readCities(country.cities,0, data, index)
-		
-	index++;
-	/*
-	readCountries(data, index);
-	*/
 }
 
 function readCities(data,index,country_data,country_index)
 {
-	console.log('load city ' + index);
-
 	if (index == data.length) {
 		readCountries(country_data, country_index+1);
 		return;
@@ -52,15 +42,17 @@ function readCities(data,index,country_data,country_index)
 
 	var city = data[index];
 
+	map.setView([city.latitude, city.longitude], 13);
+
 	for (key in city.points) {
 		loadPoints(city.points[key]);
 	}
 
 	index++;
 	
-	setTimeout(function(){
+	//setTimeout(function(){
 		readCities(data, index, country_data, country_index);
-	},500);
+	//},5000);
 }
 
 function loadPoints(data)
