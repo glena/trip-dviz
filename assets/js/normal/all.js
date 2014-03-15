@@ -16,6 +16,8 @@ L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/1251
 var loadedCities = [];
 var currentIndex = 0;
 
+$('#close-info').click(hidePointInfo);
+
 $('#nav #next').click(function(){
 
 	if (currentIndex == loadedCities.length-1) return;
@@ -48,7 +50,7 @@ $('#nav #back').click(function(){
 
 
 function positionCity(city) {
-	$('#city-name').html(city.name);
+	$('#city-name').html(city.country +' - '+ city.name);
 	map.setView([city.latitude, city.longitude], 13);
 }
 
@@ -92,12 +94,27 @@ function readCities(data,index,country_data,country_index)
 function loadPoints(data)
 {
 	data.forEach(function(point){
-console.log(point);
-		L.marker([point.latitude,point.longitude], {
-			riseOnHover: true
-		})
+
+		L.marker([point.latitude,point.longitude], {riseOnHover: true})
 			.addTo(map)
-			.bindPopup("<b>"+point.name+"</b><br /><p>"+point.description+"</p>");
+			.on('click', function(){
+				showPointInfo(point);
+			});
 
 	});
+}
+
+function showPointInfo(data) {
+    $('#point-name').html(data.name);
+    $('#point-description').html(data.description);
+    $('#close-info').addClass('visible');
+    $('#point-info').addClass('visible');
+    $('#info').addClass('open').height($(window).height());
+}
+
+function hidePointInfo() {
+    $('#close-info').removeClass('visible');
+    $('#point-info').removeClass('visible');
+    $('#info').removeClass('open');
+    $('#info').css('height','auto');
 }

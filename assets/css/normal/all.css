@@ -39,8 +39,43 @@ body{
 	left: 0;
 	top: 0;
 	color:#FFFFFF;
-	padding-top: 20px;
-	padding-left: 20px;
+	width: auto;
+	z-index: 0;
+}
+#city-name{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
 	font-size: 3em;
 	font-weight: bold;
+}
+#point-name{
+	font-size: 3em;
+	font-weight: bold;
+}
+#point-description{
+	font-size: 1.5em;
+}
+#close-info{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	background: transparent url('../../images/close.png') no-repeat center center;
+	width: 48px;
+	height: 48px;
+	display: none;
+	cursor: pointer;
+}
+#info.open {
+	z-index: 999;
+	width: 100%;
+	background-color: rgba(0,0,0,0.8);
+}
+
+#point-info {
+	display: none;
+	padding: 20px;
+}
+.visible {
+	display: block !important;
 }
