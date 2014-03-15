@@ -14,7 +14,7 @@ City::Load(
 	json_decode(file_get_contents('originaldata/cities.json'))
 );
 
-$data = json_decode(file_get_contents('originaldata/export.json'));
+$data = json_decode(file_get_contents('originaldata/points.json'));
 
 $newdata = array();
 
@@ -49,8 +49,6 @@ foreach ($data as $item)
 
 }
 
-var_dump($newdata);
-
-//file_put_contents('generateddata/data.json', json_encode($newdata));
+file_put_contents('generateddata/data.json', json_encode($newdata));
 
 ?>
