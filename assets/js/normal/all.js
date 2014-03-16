@@ -9,7 +9,7 @@ var map = L.map('map',{
 
 L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/125104/256/{z}/{x}/{y}.png', {
 	maxZoom: 18,
-	attribution: 'My ultimo viaje <a href="http://germanlena.com.ar">Germán Lena</a>'
+	attribution: '<a href="http://germanlena.com.ar">Germán Lena</a>'
 }).addTo(map);
 
 
@@ -22,16 +22,69 @@ $('#nav #next').click(function(){
 
 	if (currentIndex == loadedCities.length-1) return;
 	
+	var currentCity = loadedCities[currentIndex];
 	currentIndex++;
+	var nextCity = loadedCities[currentIndex];
+	newInteraction(currentCity, nextCity);
 	
-	positionCity(loadedCities[currentIndex]);
-
 	$('#nav #back').removeClass('disabled');
 
 	if (currentIndex == loadedCities.length-1){
 		$(this).addClass('disabled');
 	}
 });
+
+function newInteraction(currentCity, nextCity)
+{
+	$('#info').fadeOut();
+	$('.floatingName').remove();
+	fadeInCurrent(currentCity, nextCity);
+}
+
+function fadeInCurrent(currentCity, nextCity)
+{
+	createFloatingText('', 'fadeIn', 'floatingBackground')
+		.attr('id', 'floatingBackground')
+		.height($(window).height());
+
+	createFloatingText(currentCity.country +' - '+ currentCity.name, 'fadeIn', 'floatingName')
+		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', 
+			function(){slideOutCurrent.apply(this,[nextCity]);}
+		);
+}
+
+function slideOutCurrent(nextCity){
+	$(this).removeClass('fadeIn animated');
+	$(this).addClass('slideOutLeft animated');
+	slideInNext.apply(this,[nextCity]);
+}
+
+function slideInNext(nextCity){
+	createFloatingText(nextCity.country +' - '+ nextCity.name, 'slideInRight', 'floatingName')
+		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', fadeOutNext);
+	positionCity(nextCity);
+}
+
+function fadeOutNext(){
+	$(this).removeClass('slideInRight animated');
+	$(this).addClass('fadeOut animated');
+	$('#floatingBackground')
+		.removeClass('fadeIn animated')
+		.addClass('fadeOut animated')
+		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+			$(this).remove();
+		});
+	$('#info').fadeIn();
+}	
+
+function createFloatingText(text, effect, classname) {
+	var currentElement = $(document.createElement('div'));
+	currentElement.html(text);
+	currentElement.addClass(classname);
+	currentElement.appendTo('body');
+	currentElement.addClass(effect+' animated');
+	return currentElement;
+}
 
 $('#nav #back').click(function(){
 	
