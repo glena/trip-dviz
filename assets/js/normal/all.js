@@ -1,4 +1,5 @@
 var height = $(window).height();
+$('#welcome').height(height);
 $('#map').height(height);
 
 var map = L.map('map',{
@@ -12,36 +13,72 @@ L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/1251
 	attribution: '<a href="http://germanlena.com.ar">Germán Lena</a>'
 }).addTo(map);
 
+$(window).keydown(function(e){
+	switch(e.which)
+	{
+		case 37: jumpPrevCity();break;
+		case 39: jumpNextCity();break;
+		default: break;//ignore
+	}
+});
+
 
 var loadedCities = [];
 var currentIndex = 0;
 
 $('#close-info').click(hidePointInfo);
 
-$('#nav #next').click(function(){
+$('#nav #next').click(jumpNextCity);
+
+$('#nav #back').click(jumpPrevCity);
+
+function jumpPrevCity(){
+	
+	if (currentIndex == 0) return;
+	
+	var currentCity = loadedCities[currentIndex];
+	currentIndex--;
+	var nextCity = loadedCities[currentIndex];
+	
+	newInteraction(currentCity, nextCity, true);
+
+	$('#nav #next').removeClass('disabled');
+
+	if (currentIndex == 0){
+		$(this).addClass('disabled');
+	}
+}
+
+function jumpNextCity(){
 
 	if (currentIndex == loadedCities.length-1) return;
 	
 	var currentCity = loadedCities[currentIndex];
 	currentIndex++;
 	var nextCity = loadedCities[currentIndex];
-	newInteraction(currentCity, nextCity);
+
+	newInteraction(currentCity, nextCity, false);
 	
 	$('#nav #back').removeClass('disabled');
 
 	if (currentIndex == loadedCities.length-1){
 		$(this).addClass('disabled');
 	}
-});
-
-function newInteraction(currentCity, nextCity)
-{
-	$('#info').fadeOut();
-	$('.floatingName').remove();
-	fadeInCurrent(currentCity, nextCity);
 }
 
-function fadeInCurrent(currentCity, nextCity)
+function newInteraction(currentCity, nextCity, reverse)
+{
+	$('#info').fadeOut();
+
+	$('.floatingBackground, .floatingName').fadeOut(function(){
+		$(this).off();
+		$(this).remove();
+	});
+
+	fadeInCurrent(currentCity, nextCity, reverse);
+}
+
+function fadeInCurrent(currentCity, nextCity, reverse)
 {
 	createFloatingText('', 'fadeIn', 'floatingBackground')
 		.attr('id', 'floatingBackground')
@@ -49,18 +86,18 @@ function fadeInCurrent(currentCity, nextCity)
 
 	createFloatingText(currentCity.country +' - '+ currentCity.name, 'fadeIn', 'floatingName')
 		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', 
-			function(){slideOutCurrent.apply(this,[nextCity]);}
+			function(){slideOutCurrent.apply(this,[nextCity, reverse]);}
 		);
 }
 
-function slideOutCurrent(nextCity){
+function slideOutCurrent(nextCity, reverse){
 	$(this).removeClass('fadeIn animated');
-	$(this).addClass('slideOutLeft animated');
-	slideInNext.apply(this,[nextCity]);
+	$(this).addClass((reverse ? 'slideOutRight' : 'slideOutLeft') + ' animated');
+	slideInNext.apply(this,[nextCity, reverse]);
 }
 
-function slideInNext(nextCity){
-	createFloatingText(nextCity.country +' - '+ nextCity.name, 'slideInRight', 'floatingName')
+function slideInNext(nextCity, reverse){
+	createFloatingText(nextCity.country +' - '+ nextCity.name, (reverse ? 'slideInLeft' : 'slideInRight'), 'floatingName')
 		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', fadeOutNext);
 	positionCity(nextCity);
 }
@@ -73,6 +110,7 @@ function fadeOutNext(){
 		.addClass('fadeOut animated')
 		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
 			$(this).remove();
+			$('.floatingName').remove();
 		});
 	$('#info').fadeIn();
 }	
@@ -85,22 +123,6 @@ function createFloatingText(text, effect, classname) {
 	currentElement.addClass(effect+' animated');
 	return currentElement;
 }
-
-$('#nav #back').click(function(){
-	
-	if (currentIndex == 0) return;
-	
-	currentIndex--;
-	
-	positionCity(loadedCities[currentIndex]);
-
-	$('#nav #next').removeClass('disabled');
-
-	if (currentIndex == 0){
-		$(this).addClass('disabled');
-	}
-});
-
 
 function positionCity(city) {
 	$('#city-name').html(city.country +' - '+ city.name);
@@ -170,4 +192,9 @@ function hidePointInfo() {
     $('#point-info').removeClass('visible');
     $('#info').removeClass('open');
     $('#info').css('height','auto');
+}
+
+function hideWelcome()
+{
+	$('#welcome').fadeOut();
 }

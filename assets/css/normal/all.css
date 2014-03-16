@@ -100,3 +100,50 @@ body{
 	text-align: center;
 	width: 100%;
 }
+
+#welcome {
+	position: absolute;
+	top:0;
+	left:0;
+	width: 100%;
+	background-color: rgba(0,0,0,0.8);
+	z-index: 9999;
+	color:#FFFFFF;
+}
+#welcome h1 {
+	width: 50%;
+	margin: 5% auto auto;
+	font-size: 2.5em;
+	font-weight: bold;	
+}
+
+#welcome p {
+	width: 50%;
+	margin: 20px auto auto;
+	font-size: 1.5em;
+	line-height: 30px;
+}
+
+.arrow-left {
+	background: transparent url('../../images/arrow_left.png') no-repeat center center;
+	width: 48px; 
+	height: 30px; 
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.arrow-right {
+	background: transparent url('../../images/arrow_right.png') no-repeat center center;
+	width: 48px; 
+	height: 30px; 
+	display: inline-block;
+	vertical-align: bottom;
+}
+.close-message{
+	text-align: center;
+	width: 100px;
+	margin: 20px auto auto;
+	text-decoration: underline;
+	font-size: 2em;
+	cursor: pointer;
+}
