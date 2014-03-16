@@ -45,7 +45,7 @@ function jumpPrevCity(){
 	$('#nav #next').removeClass('disabled');
 
 	if (currentIndex == 0){
-		$(this).addClass('disabled');
+		$('#nav #back').addClass('disabled');
 	}
 }
 
@@ -62,19 +62,19 @@ function jumpNextCity(){
 	$('#nav #back').removeClass('disabled');
 
 	if (currentIndex == loadedCities.length-1){
-		$(this).addClass('disabled');
+		$('#nav #next').addClass('disabled');
 	}
 }
 
 function newInteraction(currentCity, nextCity, reverse)
 {
 	$('#info').fadeOut();
-
+/*
 	$('.floatingBackground, .floatingName').fadeOut(function(){
 		$(this).off();
 		$(this).remove();
 	});
-
+*/
 	fadeInCurrent(currentCity, nextCity, reverse);
 }
 
@@ -134,7 +134,6 @@ $(document).ready(function(){
 		dataType:'json'
 	}).done(function( data ) {
 		readCountries(data,0);
-		positionCity(loadedCities[currentIndex]);
 	});
 });
 
@@ -197,4 +196,5 @@ function hidePointInfo() {
 function hideWelcome()
 {
 	$('#welcome').fadeOut();
+	positionCity(loadedCities[currentIndex]);
 }
