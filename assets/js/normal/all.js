@@ -69,58 +69,56 @@ function jumpNextCity(){
 function newInteraction(currentCity, nextCity, reverse)
 {
 	$('#info').fadeOut();
-/*
+
 	$('.floatingBackground, .floatingName').fadeOut(function(){
 		$(this).off();
 		$(this).remove();
 	});
-*/
+
 	fadeInCurrent(currentCity, nextCity, reverse);
 }
 
 function fadeInCurrent(currentCity, nextCity, reverse)
 {
-	createFloatingText('', 'fadeIn', 'floatingBackground')
+	createFloatingText('', 'floatingBackground')
 		.attr('id', 'floatingBackground')
-		.height($(window).height());
+		.height($(window).height())
+		.show('fade',{}, 500);
 
-	createFloatingText(currentCity.country +' - '+ currentCity.name, 'fadeIn', 'floatingName')
-		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', 
-			function(){slideOutCurrent.apply(this,[nextCity, reverse]);}
-		);
+	createFloatingText(currentCity.country +' - '+ currentCity.name, 'floatingName')
+		.show('fade',{}, 500, function(){
+			slideOutCurrent.apply(this,[nextCity, reverse]);
+		});
 }
 
 function slideOutCurrent(nextCity, reverse){
-	$(this).removeClass('fadeIn animated');
-	$(this).addClass((reverse ? 'slideOutRight' : 'slideOutLeft') + ' animated');
+	$(this).hide('slide',{direction:(reverse ? 'right' : 'left')}, 1000);
 	slideInNext.apply(this,[nextCity, reverse]);
 }
 
 function slideInNext(nextCity, reverse){
-	createFloatingText(nextCity.country +' - '+ nextCity.name, (reverse ? 'slideInLeft' : 'slideInRight'), 'floatingName')
-		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', fadeOutNext);
+	createFloatingText(nextCity.country +' - '+ nextCity.name, 'floatingName')
+		.show('slide',{direction:(reverse ? 'left' : 'right')}, 1000, fadeOutNext);
+
 	positionCity(nextCity);
 }
 
 function fadeOutNext(){
-	$(this).removeClass('slideInRight animated');
-	$(this).addClass('fadeOut animated');
+	$(this).hide('fade',{}, 500);
+
 	$('#floatingBackground')
-		.removeClass('fadeIn animated')
-		.addClass('fadeOut animated')
-		.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+		.hide('fade',{}, 500, function(){
 			$(this).remove();
 			$('.floatingName').remove();
 		});
-	$('#info').fadeIn();
+	$('#info').show('fade',{}, 500);
 }	
 
-function createFloatingText(text, effect, classname) {
+function createFloatingText(text, classname) {
 	var currentElement = $(document.createElement('div'));
 	currentElement.html(text);
 	currentElement.addClass(classname);
 	currentElement.appendTo('body');
-	currentElement.addClass(effect+' animated');
 	return currentElement;
 }
 
