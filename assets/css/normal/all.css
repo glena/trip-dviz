@@ -147,3 +147,12 @@ body{
 	font-size: 2em;
 	cursor: pointer;
 }
+
+#welcome .sign {
+	line-height: 100px;
+}
+#welcome .sign img {
+	border-radius: 50%;
+	float: left;
+	margin-right: 10px;
+}
