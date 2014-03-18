@@ -9,6 +9,7 @@ class PointVisit {
     public $latitude;
     public $longitude;
     public $point_order;
+    public $photo;
     
     public function __construct($point)
     {
@@ -18,7 +19,8 @@ class PointVisit {
 	    $this->description = $point->description;
 	    $this->latitude = $point->latitude;
 	    $this->longitude = $point->longitude;
-	    $this->point_order = $point->point_order;
+        $this->point_order = $point->point_order;
+	    $this->photo = $point->photo;
     }
 
 }

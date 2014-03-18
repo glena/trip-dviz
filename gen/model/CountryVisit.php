@@ -4,8 +4,6 @@ class CountryVisit {
 
     public $id;
     public $name;
-    public $latitude;
-    public $longitude;
     public $cities = array();
     
     public function __construct($id, $name)
@@ -14,14 +12,43 @@ class CountryVisit {
         $this->name = $name;
     }
 
-    public function addCity(CityVisit $city)
+    public function getCity($item)
     {
-        $count = count($this->cities);
+        $city = array_values(array_filter($this->cities, function($e) use ($item) {
+            return $e->id == $item->city_id;
+        }));
 
-    	$this->cities[] = $city;
+        if (count($city) == 0)
+        {
+            $cityVisit = new CityVisit($item->city_id, $item->city, $item->country);
+            $this->cities[] = $cityVisit;
+            return $cityVisit;
+        }
 
-        $this->longitude = (($this->longitude * $count) + $city->longitude) / ($count + 1);
-        $this->latitude = (($this->latitude * $count) + $city->latitude) / ($count + 1);
+        return $city[0];
+    }
+
+    protected static $countries = array();
+
+    public static function All()
+    {
+        return self::$countries;
+    }
+
+    public static function Get($item)
+    {
+        $country = array_values(array_filter(self::$countries, function($e) use ($item) {
+            return $e->id == $item->country_id;
+        }));
+
+        if (count($country) == 0)
+        {
+            $country = new CountryVisit($item->country_id, $item->country);
+            self::$countries[] = $country;
+            return $country;
+        }
+
+        return $country[0];
     }
 }
 

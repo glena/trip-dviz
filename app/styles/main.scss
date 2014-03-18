@@ -1,0 +1,189 @@
+// bower:scss
+// endbower
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+body{
+    margin:0;
+    font: normal 14px/1.5  'Roboto Condensed', sans-serif;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+#nav {
+	overflow: hidden;
+	position: absolute;
+	top:0;
+	right:0;
+	width:96px;
+	height:48px;
+    
+    #next,#back {
+        width: 48px;
+        height: 48px;
+        float: left;
+        cursor: pointer;
+    }
+    
+    #next {
+	   background: transparent url('/images/next.png') no-repeat center center;
+    }
+    #next.disabled {
+        background: transparent url('/images/next_disabled.png') no-repeat center center;
+    }
+    #back {
+        background: transparent url('/images/back.png') no-repeat center center;
+    }
+    #back.disabled {
+        background: transparent url('/images/back_disabled.png') no-repeat center center;
+    }
+}
+
+#map.blur {
+    -webkit-filter: blur(5px); 
+    -moz-filter: blur(5px); 
+    -o-filter: blur(5px); 
+    -ms-filter: blur(5px); 
+    filter: blur(5px);
+}
+
+#info {
+	position: absolute;
+	left: 0;
+	top: 0;
+	color:#FFFFFF;
+	width: auto;
+	z-index: 0;
+    
+    #city-name{
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        font-size: 3em;
+        font-weight: bold;
+    }
+    #point-photo{
+        width: 500px;
+        float: left;
+        margin-right: 10px;
+    }
+    #point-name{
+        font-size: 3em;
+        font-weight: bold;
+    }
+    #point-description{
+        font-size: 1.5em;
+    }
+    #close-info{
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: transparent url('/images/close.png') no-repeat center center;
+        width: 48px;
+        height: 48px;
+        display: none;
+        cursor: pointer;
+    }
+    
+    
+    #point-info {
+        display: none;
+        padding: 20px;
+    }
+}
+
+#info.open {
+    z-index: 999;
+    width: 100%;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.visible {
+	display: block !important;
+}
+
+.floatingBackground{
+	width: 100%;
+	background-color: rgba(0,0,0,0.4);
+	position: absolute;
+	top: 0;
+	left:0;
+	z-index: 9998;
+	display:none;
+}
+.floatingName{
+	position: absolute;
+	top: 45%;
+	left:0;
+	color:#FFFFFF;
+	z-index: 9999;
+	font-size: 3em;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	display:none;
+}
+
+#welcome {
+	position: absolute;
+	top:0;
+	left:0;
+	width: 100%;
+	background-color: rgba(0,0,0,0.4);
+	z-index: 9999;
+	color:#FFFFFF;
+    
+    h1 {
+        width: 50%;
+        margin: 5% auto auto;
+        font-size: 2.5em;
+        font-weight: bold;	
+    }
+
+    p {
+        width: 50%;
+        margin: 20px auto auto;
+        font-size: 1.5em;
+        line-height: 30px;
+    }
+    
+    .sign {
+	   line-height: 100px;
+    }
+    .sign img {
+        border-radius: 50%;
+        float: left;
+        margin-right: 10px;
+    }
+}
+
+.arrow-left {
+	background: transparent url('/images/arrow_left.png') no-repeat center center;
+	width: 48px; 
+	height: 30px; 
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.arrow-right {
+	background: transparent url('/images/arrow_right.png') no-repeat center center;
+	width: 48px; 
+	height: 30px; 
+	display: inline-block;
+	vertical-align: bottom;
+}
+.close-message{
+	text-align: center;
+	width: 100px;
+	margin: 20px auto auto;
+	text-decoration: underline;
+	font-size: 2em;
+	cursor: pointer;
+}
+
+.marker-cluster {
+    background: transparent url('/images/cluster.png') no-repeat center center;
+    color:transparent;
+    width: 26px;
+    height: 26px;
+}
