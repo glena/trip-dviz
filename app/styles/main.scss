@@ -13,12 +13,12 @@ body{
 #nav {
 	overflow: hidden;
 	position: absolute;
-	top:0;
-	right:0;
-	width:96px;
+	top:10px;
+	right:10px;
+	width:154px;
 	height:48px;
     
-    #next,#back {
+    #next,#back,#map,#play {
         width: 48px;
         height: 48px;
         float: left;
@@ -37,6 +37,16 @@ body{
     #back.disabled {
         background: transparent url('/images/back_disabled.png') no-repeat center center;
     }
+    #map{
+        background: transparent url('/images/map.png') no-repeat center center;
+        margin-right: 10px;
+    }
+    #play{
+        background: transparent url('/images/play.png') no-repeat center center;
+        margin-right: 10px;
+    }
+    
+    
 }
 
 #map.blur {

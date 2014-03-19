@@ -167,6 +167,8 @@ function hideWelcome()
 
 function jumpPrevCity(){
 	
+    showLast();
+    
 	if (currentIndex === 0) {
         return;
     }
@@ -186,6 +188,8 @@ function jumpPrevCity(){
 
 function jumpNextCity(){
 
+    showLast();
+    
 	if (currentIndex === loadedCities.length-1) {
         return;
     }
@@ -201,6 +205,18 @@ function jumpNextCity(){
 	if (currentIndex === loadedCities.length-1){
 		$('#nav #next').addClass('disabled');
 	}
+}
+
+function showMap(){
+    $('#nav #map').hide();
+    $('#nav #play').show();
+    map.setView([50.10714500,8.66378900], 5, {animate:true});
+}
+function showLast() {
+    $('#nav #map').show();
+    $('#nav #play').hide();
+    var city = loadedCities[currentIndex];
+    map.setView([city.latitude, city.longitude], 13);    
 }
 
 function hideAll()
@@ -238,7 +254,7 @@ $(document).ready(function(){
 });
 
 $('#close-info').click(hidePointInfo);
-
 $('#nav #next').click(jumpNextCity);
-
 $('#nav #back').click(jumpPrevCity);
+$('#nav #map').click(showMap);
+$('#nav #play').click(showLast);
