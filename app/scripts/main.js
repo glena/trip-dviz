@@ -109,7 +109,7 @@ function getBoundingBox(latitude, longitude, radius)
 
 function showPointInfo(data) {
     
-    if (data.photo)
+    /*if (data.photo)
     {
         $('#point-widget').hide();
         $('#point-photo').attr('alt',data.name)
@@ -118,7 +118,7 @@ function showPointInfo(data) {
                     .show();
     }
     else
-    {
+    {*/
         $('#point-photo').hide();
         $('#point-widget').show();
         var myRequest = new panoramio.PhotoRequest({
@@ -129,7 +129,7 @@ function showPointInfo(data) {
         };
         var widget = new panoramio.PhotoWidget('point-widget', myRequest, myOptions);
         widget.setPosition(0);
-    }
+    //}
     
     $('#nav').hide();
     $('#point-name').html(data.name);
