@@ -150,7 +150,7 @@ function newInteraction(currentCity, nextCity, reverse)
 		$(this).off();
 		$(this).remove();
 	});
-
+    
 	fadeInCurrent(currentCity, nextCity, reverse);
 }
 
@@ -176,8 +176,10 @@ function addCity(city, position)
             showLast();
             var currentCity = loadedCities[currentIndex];
             
-            if (position == currentIndex) {
-                positionCity(city);
+            _gaq.push(['_trackEvent', 'ShowCity', currentCity.name]);
+            
+            if (position == currentIndex) {                    
+                positionCity(currentCity);
                 return;
             }
             
@@ -225,6 +227,7 @@ function hidePointInfo() {
     $('#point-info').removeClass('visible');
     $('#info').removeClass('open');
     $('#info').css('height','auto');
+    _gaq.push(['_trackEvent', 'Close', 'pointInfo']);
 }
 
 function hideWelcome()
@@ -232,6 +235,7 @@ function hideWelcome()
     $('#map').removeClass('blur');
 	$('#welcome').fadeOut();
 	positionCity(loadedCities[currentIndex]);
+    _gaq.push(['_trackEvent', 'Close', 'welcome']);
 }
 
 function jumpPrevCity(){
@@ -247,6 +251,8 @@ function jumpPrevCity(){
 	var nextCity = loadedCities[currentIndex];
 	
 	newInteraction(currentCity, nextCity, true);
+    
+    _gaq.push(['_trackEvent', 'PrevCity', nextCity.name]);
 
 	$('#nav #next').removeClass('disabled');
 
@@ -266,6 +272,8 @@ function jumpNextCity(){
 	var currentCity = loadedCities[currentIndex];
 	currentIndex++;
 	var nextCity = loadedCities[currentIndex];
+    
+    _gaq.push(['_trackEvent', 'NextCity', nextCity.name]);
 
 	newInteraction(currentCity, nextCity, false);
 	
@@ -280,6 +288,7 @@ function showMap(){
     $('#city-list').show();
     $('#nav #fullmap').hide();
     $('#nav #play').show();
+    _gaq.push(['_trackEvent', 'ShowMap']);
     map.setView([50.10714500,8.66378900], 5, {animate:true});
 }
 function showLast() {
@@ -287,6 +296,7 @@ function showLast() {
     $('#nav #fullmap').show();
     $('#nav #play').hide();
     var city = loadedCities[currentIndex];
+    _gaq.push(['_trackEvent', 'BackToCity', city.name]);
     map.setView([city.latitude, city.longitude], 13);    
 }
 
