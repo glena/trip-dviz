@@ -20,8 +20,8 @@ L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/1251
 }).addTo(map);
 
 var Licon = L.icon({
-    iconUrl: '/images/marker-icon.png',
-    iconRetinaUrl: '/images/marker-icon-2x.png',
+    iconUrl: '../images/marker-icon.png',
+    iconRetinaUrl: '../images/marker-icon-2x.png',
     iconSize: [25, 41],
     iconAnchor: [12, 41],
 });

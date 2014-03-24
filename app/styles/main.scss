@@ -30,23 +30,23 @@ a,a:hover {
     }
     
     #next {
-	   background: transparent url('/images/next.png') no-repeat center center;
+	   background: transparent url('../images/next.png') no-repeat center center;
     }
     #next.disabled {
-        background: transparent url('/images/next_disabled.png') no-repeat center center;
+        background: transparent url('../images/next_disabled.png') no-repeat center center;
     }
     #back {
-        background: transparent url('/images/back.png') no-repeat center center;
+        background: transparent url('../images/back.png') no-repeat center center;
     }
     #back.disabled {
-        background: transparent url('/images/back_disabled.png') no-repeat center center;
+        background: transparent url('../images/back_disabled.png') no-repeat center center;
     }
     #fullmap{
-        background: transparent url('/images/map.png') no-repeat center center;
+        background: transparent url('../images/map.png') no-repeat center center;
         margin-right: 10px;
     }
     #play{
-        background: transparent url('/images/play.png') no-repeat center center;
+        background: transparent url('../images/play.png') no-repeat center center;
         margin-right: 10px;
     }
     
@@ -129,7 +129,7 @@ a,a:hover {
         position: absolute;
         top: 20px;
         right: 20px;
-        background: transparent url('/images/close.png') no-repeat center center;
+        background: transparent url('../images/close.png') no-repeat center center;
         width: 48px;
         height: 48px;
         display: none;
@@ -209,7 +209,7 @@ a,a:hover {
 }
 
 .arrow-left {
-	background: transparent url('/images/arrow_left.png') no-repeat center center;
+	background: transparent url('../images/arrow_left.png') no-repeat center center;
 	width: 48px; 
 	height: 30px; 
 	display: inline-block;
@@ -217,7 +217,7 @@ a,a:hover {
 }
 
 .arrow-right {
-	background: transparent url('/images/arrow_right.png') no-repeat center center;
+	background: transparent url('../images/arrow_right.png') no-repeat center center;
 	width: 48px; 
 	height: 30px; 
 	display: inline-block;
@@ -233,7 +233,7 @@ a,a:hover {
 }
 
 .marker-cluster {
-    background: transparent url('/images/cluster.png') no-repeat center center;
+    background: transparent url('../images/cluster.png') no-repeat center center;
     color:transparent;
     width: 26px;
     height: 26px;
