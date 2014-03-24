@@ -1,62 +1,21 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <!--
+<!DOCTYPE html><!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!--><html class=no-js><!--<![endif]--><head><!--
    _____                                   _                      
   / ____|                                 | |                     
  | |  __  ___ _ __ _ __ ___   __ _ _ __   | |     ___ _ __   __ _ 
  | | |_ |/ _ \ '__| '_ ` _ \ / _` | '_ \  | |    / _ \ '_ \ / _` |
  | |__| |  __/ |  | | | | | | (_| | | | | | |___|  __/ | | | (_| |
   \_____|\___|_|  |_| |_| |_|\__,_|_| |_| |______\___|_| |_|\__,_|
-        -->
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <link rel="stylesheet" href="assets/vendors/leaflet/leaflet.css">
-        <link rel="stylesheet" href="assets/vendors/jquery-ui/css/smoothness/jquery-ui-1.10.4.custom.min.css">
-        <link rel="stylesheet" href="assets/css/normal/all.css">
-        
-        <title>Germán Lena</title>
-        <meta name="description" content="">
-    </head>
-    <body>
-        <div id="welcome">
-            
-            <h1>Eurotrip</h1>
-            <p>Hace un año me fui con 3 amigos a dar vueltas por Europa. Como me pinto el bajon por las ganas de no haber vuelto, se me dio por hacer esto.</p>
-            <p>En el mapa se puede ver los puntos que visitamos en cada ciudad que estuvimos. Hace click en un punto para ver la info.</p>
-            <p>Usa las flechas izquierda (<span class="arrow-left"></span>) y derecha (<span class="arrow-right"></span>)  del teclado para moverte o los dos iconitos en la punta superior derecha.</p>
-
-            <div class="close-message" onclick="hideWelcome();">Comenzar</div>
-
-            <p class="sign">
-                <img src="assets/images/german-lena.jpeg" alt="Yo" title="Yo" />
-                Germán
-            </p>
-
-        </div>
-        <div id="map">
-        </div>
-        <div id="info">
-            <div id="close-info"></div>
-            <div id="city-name"></div>
-            <dic id="point-info">
-                <div id="point-name"></div>
-                <p id="point-description"></p>
-            </div>
-        </div>
-        <div id="nav">
-            <span id="back" class="disabled"></span>
-            <span id="next"></span>
-        </div>
-        
-        <script src="assets/vendors/jquery/jquery-1.11.0.min.js"></script>
-        <script src="assets/vendors/jquery-ui/js/jquery-ui-1.10.4.custom.min.js"></script>
-        <script src="assets/vendors/leaflet/leaflet.js"></script>
-        <script src="assets/js/normal/all.js"></script>
-    </body>
-</html>
+        --><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width, initial-scale=1"><title>Eurotrip - Germán Lena</title><meta name=description content=""><link rel="shortcut icon" href=/6df2b309.favicon.ico><!-- Place favicon.ico and apple-touch-icon.png in the root directory --><link rel=stylesheet href=styles/vendor.css><link rel=stylesheet href=styles/5dc9f39c.main.css><body><!--[if lt IE 10]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]--><div id=welcome><h1>Eurotrip</h1><p>Hace un año me fui con 3 amigos a dar vueltas por Europa. Como me pinto el bajon por las ganas de no haber vuelto, se me dio por hacer esto.</p><p>En el mapa se puede ver los puntos que visitamos en cada ciudad que estuvimos. Hace click en un punto para ver la info.</p><p>Usa las flechas izquierda (<span class=arrow-left></span>) y derecha (<span class=arrow-right></span>) del teclado para moverte o los dos iconitos en la punta superior derecha.</p><div class=close-message onclick=hideWelcome()>Comenzar</div><p class=sign><a href=http://germanlena.com.ar><img src=/images/592c1cf8.german-lena.jpeg alt=Yo title=Yo></a> Germán (<a href=http://germanlena.com.ar>germanlena.com.ar</a>)</p></div><div id=map class=blur></div><div id=info><div id=close-info></div><div id=city-name></div><dic id=point-info><img id=point-photo src="" alt=""><div id=point-widget></div><div id=point-name></div><p id=point-description></p></dic></div><div id=nav><span id=fullmap title="Ver mapa"></span> <span id=play style=display:none title="Volver a la ciudad"></span> <span id=back class=disabled title="Ciudad anterior"></span> <span id=next title="Ciudad siguiente"></span></div><div id=city-list><ul></ul></div><script src=scripts/056b3496.vendor.js></script><!-- Google Analytics: change UA-XXXXX-X to be your site's ID. 
+        <script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-32429094-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		</script>
+        --><script src=scripts/2dc8fdbd.main.js></script><script src="http://www.panoramio.com/wapi/wapi.js?v=1"></script>
