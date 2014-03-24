@@ -10,6 +10,10 @@ body{
     background-color: #000000;
 }
 
+a,a:hover {
+    color:#FFFFFF;
+}
+
 #nav {
 	overflow: hidden;
 	position: absolute;
@@ -18,7 +22,7 @@ body{
 	width:154px;
 	height:48px;
     
-    #next,#back,#map,#play {
+    #next,#back,#fullmap,#play {
         width: 48px;
         height: 48px;
         float: left;
@@ -37,7 +41,7 @@ body{
     #back.disabled {
         background: transparent url('/images/back_disabled.png') no-repeat center center;
     }
-    #map{
+    #fullmap{
         background: transparent url('/images/map.png') no-repeat center center;
         margin-right: 10px;
     }
@@ -57,6 +61,37 @@ body{
     filter: blur(5px);
 }
 
+#city-list {
+    line-height: 40px;
+    height: 60px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:#FFFFFF;
+    overflow-x: auto;
+    overflow-y: hidden;
+    font-size: 20px;
+    display: none;
+    
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        white-space:nowrap;
+        
+        li {
+            cursor: pointer;
+            text-decoration: none;
+            display: inline;
+            padding: 0 5px;
+        }
+        li:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
 #info {
 	position: absolute;
 	left: 0;
@@ -74,6 +109,12 @@ body{
     }
     #point-photo{
         width: 500px;
+        float: left;
+        margin-right: 10px;
+    }
+    #point-widget{
+        width: 500px;
+        height: 500px;
         float: left;
         margin-right: 10px;
     }

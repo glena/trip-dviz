@@ -47,8 +47,8 @@
             <div class="close-message" onclick="hideWelcome();">Comenzar</div>
 
             <p class="sign">
-                <img src="/images/german-lena.jpeg" alt="Yo" title="Yo" />
-                Germán
+                <a href="http://germanlena.com.ar"><img src="/images/german-lena.jpeg" alt="Yo" title="Yo" /></a>
+                Germán (<a href="http://germanlena.com.ar">germanlena.com.ar</a>)
             </p>
 
         </div>
@@ -59,15 +59,20 @@
             <div id="city-name"></div>
             <dic id="point-info">
                 <img id="point-photo" src="" alt="" title="" />
+                <div id="point-widget"></div>
                 <div id="point-name"></div>
                 <p id="point-description"></p>
             </div>
         </div>
         <div id="nav">
-            <span id="map"></span>
-            <span id="play" style="display:none"></span>
-            <span id="back" class="disabled"></span>
-            <span id="next"></span>
+            <span id="fullmap" title="Ver mapa"></span>
+            <span id="play" style="display:none" title="Volver a la ciudad"></span>
+            <span id="back" class="disabled" title="Ciudad anterior"></span>
+            <span id="next" title="Ciudad siguiente"></span>
+        </div>
+        
+        <div id="city-list">
+            <ul></ul>
         </div>
 
         <!-- build:js scripts/vendor.js -->
@@ -97,5 +102,7 @@
         <!-- build:js({app,.tmp}) scripts/main.js -->
         <script src="scripts/main.js"></script>
         <!-- endbuild -->
+        
+        <script src="http://www.panoramio.com/wapi/wapi.js?v=1"></script>
 </body>
 </html>

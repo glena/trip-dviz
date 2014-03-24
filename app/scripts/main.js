@@ -82,11 +82,56 @@ function fadeInCurrent(currentCity, nextCity, reverse)
 		});
 }
 
+function toDegrees(angleRadians) {
+  return angleRadians * 180 / Math.PI;
+}
+
+function toRadians(angleDegrees) {
+  return angleDegrees * Math.PI / 180;
+}
+
+function getBoundingBox(latitude, longitude, radius)
+{
+    var R = 6371;  // earth radius in km
+
+    latitude = parseFloat(latitude);
+    longitude = parseFloat(longitude);
+    
+    var sw_lat = latitude - toDegrees(radius/R);
+    var sw_lng = longitude - toDegrees(radius/R/Math.cos(toRadians(latitude)));
+                                       
+    var ne_lat = latitude + toDegrees(radius/R);
+    var ne_lng = longitude + toDegrees(radius/R/Math.cos(toRadians(latitude)));
+    
+    return {sw: { lat: sw_lat , lng: sw_lng }, ne: { lat: ne_lat , lng: ne_lng }};
+}
+
 
 function showPointInfo(data) {
-    $('#point-photo').attr('alt',data.name)
+    
+    if (data.photo)
+    {
+        $('#point-widget').hide();
+        $('#point-photo').attr('alt',data.name)
 				    .attr('title',data.name)
-				    .attr('src','/images/fotos/'+data.photo);
+				    .attr('src','/images/fotos/'+data.photo)
+                    .show();
+    }
+    else
+    {
+        $('#point-photo').hide();
+        $('#point-widget').show();
+        var myRequest = new panoramio.PhotoRequest({
+          'rect': getBoundingBox(data.latitude,data.longitude,0.1)
+        });
+        var myOptions = {
+          'width': 500
+        };
+        var widget = new panoramio.PhotoWidget('point-widget', myRequest, myOptions);
+        widget.setPosition(0);
+    }
+    
+    $('#nav').hide();
     $('#point-name').html(data.name);
     $('#point-description').html(data.description);
     $('#close-info').addClass('visible');
@@ -118,8 +163,27 @@ function loadPoints(data)
                     showPointInfo(point);
                 })
         );
-
 	});
+}
+
+function addCity(city, position)
+{
+    var text = city.country +' - '+ city.name;
+    $('<li>'+text+'</li>')
+        .appendTo('#city-list ul')
+        .click(function(){
+            showLast();
+            var currentCity = loadedCities[currentIndex];
+            
+            if (position == currentIndex) {
+                positionCity(city);
+                return;
+            }
+            
+            var nextCity = loadedCities[position];
+            newInteraction(currentCity, nextCity, (position < currentIndex));
+            currentIndex = position;
+        });
 }
 
 function readCities(data,index,countryData,countryIndex)
@@ -129,8 +193,11 @@ function readCities(data,index,countryData,countryIndex)
 		return;
 	}
 
-	var city = data[index];
-	loadedCities.push(city);
+    var city = data[index];
+    
+    addCity(city, loadedCities.length);
+    
+    loadedCities.push(city);
 
 	for (var key in city.points) {
 		loadPoints(city.points[key]);
@@ -151,6 +218,7 @@ function readCountries(data, index)
 }
 
 function hidePointInfo() {
+    $('#nav').show();
     $('#map').removeClass('blur');
     $('#close-info').removeClass('visible');
     $('#point-info').removeClass('visible');
@@ -208,12 +276,14 @@ function jumpNextCity(){
 }
 
 function showMap(){
-    $('#nav #map').hide();
+    $('#city-list').show();
+    $('#nav #fullmap').hide();
     $('#nav #play').show();
     map.setView([50.10714500,8.66378900], 5, {animate:true});
 }
 function showLast() {
-    $('#nav #map').show();
+    $('#city-list').hide();
+    $('#nav #fullmap').show();
     $('#nav #play').hide();
     var city = loadedCities[currentIndex];
     map.setView([city.latitude, city.longitude], 13);    
@@ -256,5 +326,5 @@ $(document).ready(function(){
 $('#close-info').click(hidePointInfo);
 $('#nav #next').click(jumpNextCity);
 $('#nav #back').click(jumpPrevCity);
-$('#nav #map').click(showMap);
+$('#nav #fullmap').click(showMap);
 $('#nav #play').click(showLast);
