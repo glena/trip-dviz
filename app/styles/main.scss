@@ -114,7 +114,6 @@ a,a:hover {
     }
     #point-widget{
         width: 500px;
-        height: 500px;
         float: left;
         margin-right: 10px;
     }
@@ -237,4 +236,66 @@ a,a:hover {
     color:transparent;
     width: 26px;
     height: 26px;
+}
+
+@media all and (max-width: 1000px) {
+    #welcome h1 {
+        width: 95%;
+    }
+
+    #welcome  p {
+        width: 95%;
+    }
+}
+
+@media all and (max-width: 800px) {
+    #welcome h1 {
+        width: 95%;
+        font-size: 1.5em;
+    }
+
+    #welcome  p {
+        width: 95%;
+        font-size: 1em;
+    }
+    
+    #welcome .sign {
+        line-height: 50px;
+    }
+    
+    #welcome .sign img {
+        height: 50px;
+        width: 50px;
+    }
+    
+    #info #city-name {
+        font-size: 2em;
+    }
+    
+    #info #point-name {
+        font-size: 1.5em;
+    }
+    #info #point-description {
+        font-size: 1em;
+    }
+    #info #point-photo,#info #point-widget {
+        margin-right:0;
+    }
+    #info #point-info {
+        padding:5px;
+    }
+    
+    #nav {
+        width:90px;
+        height:30px;
+        top: 25px;
+    }
+    
+    #nav #next,#nav #back,#nav #fullmap,#nav #play {
+        width: 25px;
+        height: 25px;
+        margin-right: 5px;
+        background-size: 100% 100%;
+    }
+    
 }

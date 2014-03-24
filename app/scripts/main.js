@@ -20,8 +20,8 @@ L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/1251
 }).addTo(map);
 
 var Licon = L.icon({
-    iconUrl: '../images/marker-icon.png',
-    iconRetinaUrl: '../images/marker-icon-2x.png',
+    iconUrl: './images/marker-icon.png',
+    iconRetinaUrl: './images/marker-icon-2x.png',
     iconSize: [25, 41],
     iconAnchor: [12, 41],
 });
@@ -124,8 +124,9 @@ function showPointInfo(data) {
         var myRequest = new panoramio.PhotoRequest({
           'rect': getBoundingBox(data.latitude,data.longitude,0.1)
         });
+        var w = $('body').width();
         var myOptions = {
-          'width': 500
+          'width': (w < 500 ? w-10 : 500)
         };
         var widget = new panoramio.PhotoWidget('point-widget', myRequest, myOptions);
         widget.setPosition(0);
@@ -315,7 +316,7 @@ $(document).keydown(function(e){
 });
 
 $(document).ready(function(){
-	$.ajax('/data/data.json',{
+	$.ajax('./data/data.json',{
 		dataType:'json'
 	}).done(function( data ) {
 		readCountries(data,0);
