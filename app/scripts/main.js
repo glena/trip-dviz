@@ -14,9 +14,15 @@ var map = L.map('map',{
 	zoomControl:false
 }).setView([50.10714500,8.66378900], 5);
 
-L.tileLayer('http://{s}.tile.cloudmade.com/2262e8a159bb4e98bec341f62716c75c/125104/256/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	attribution: '<a href="http://germanlena.com.ar">Germán Lena</a>'
+L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/normal.night/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {
+	attribution: '<a href="http://germanlena.com.ar">Germán Lena</a>',
+	subdomains: '1234',
+	mapID: 'newest',
+	app_id: 'ns4IcyBojvEUeGB0x6MI',
+	app_code: 'J1S6kv5yHNyYe0-ArVIReg',
+	base: 'base',
+	minZoom: 0,
+	maxZoom: 18
 }).addTo(map);
 
 var Licon = L.icon({
